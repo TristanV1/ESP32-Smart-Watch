@@ -1,0 +1,202 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_CDS_PINID!PIN_TERMINATION!PIN_TERM_IDENT!PIN_NET_SHORT!PIN_XNET_PINS!
+J!C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd!Tue Aug  8 14:56:15 2023!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!DESIGN3!25.015748 mil!4!UP TO DATE!
+S!N266210!D1!1!@design3.schematic1(sch_1):ins45151@design3.\bas16/sot_0.normal\(chips)!BAS16/SOT_0_CR_SOD323_MCC_1N4148WX-TP!!!F27!!!!!!
+S!GND!D1!2!@design3.schematic1(sch_1):ins45151@design3.\bas16/sot_0.normal\(chips)!BAS16/SOT_0_CR_SOD323_MCC_1N4148WX-TP!!!F27!!!!!!
+S!GND!J1!1!@design3.schematic1(sch_1):ins1281@design3.\sipsoc-3_2.normal\(chips)!SIPSOC-3_2_CONN_S2B-PH-K-S_JST_S2B-PH-K-S!!!F26!!!!!!
+S!3.7V LI-PO!J1!2!@design3.schematic1(sch_1):ins1281@design3.\sipsoc-3_2.normal\(chips)!SIPSOC-3_2_CONN_S2B-PH-K-S_JST_S2B-PH-K-S!!!F26!!!!!!
+S!GND!C1!1!@design3.schematic1(sch_1):ins1807@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F50!!!!!!
+S!3.7V LI-PO!C1!2!@design3.schematic1(sch_1):ins1807@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F50!!!!!!
+S!GND!C10!1!@design3.schematic1(sch_1):ins16561@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F49!!!!!!
+S!3.7V LI-PO!C10!2!@design3.schematic1(sch_1):ins16561@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F49!!!!!!
+S!GND!C12!1!@design3.schematic1(sch_1):ins21937@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F48!!!!!!
+S!13V!C12!2!@design3.schematic1(sch_1):ins21937@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F48!!!!!!
+S!GND!C2!1!@design3.schematic1(sch_1):ins1831@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F47!!!!!!
+S!3.3V!C2!2!@design3.schematic1(sch_1):ins1831@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F47!!!!!!
+S!GND!C3!1!@design3.schematic1(sch_1):ins2775@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F46!!!!!!
+S!3.3V!C3!2!@design3.schematic1(sch_1):ins2775@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F46!!!!!!
+S!AGND!C6!1!@design3.schematic1(sch_1):ins5381@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F45!!!!!!
+S!3.3V!C6!2!@design3.schematic1(sch_1):ins5381@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F45!!!!!!
+S!AGND!C7!1!@design3.schematic1(sch_1):ins5584@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F44!!!!!!
+S!1.8V!C7!2!@design3.schematic1(sch_1):ins5584@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F44!!!!!!
+S!GND!C9!1!@design3.schematic1(sch_1):ins10213@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F43!!!!!!
+S!3.7V LI-PO!C9!2!@design3.schematic1(sch_1):ins10213@analog.\c.normal\(chips)!C_CAP_CL31_SAM_10UF!!!F43!!!!!!
+S!GND!C11!1!@design3.schematic1(sch_1):ins21351@analog.\c.normal\(chips)!C_CAP_CL31_SAM_22UF!!!F42!!!!!!
+S!13V!C11!2!@design3.schematic1(sch_1):ins21351@analog.\c.normal\(chips)!C_CAP_CL31_SAM_22UF!!!F42!!!!!!
+S!N22987!C13!1!@design3.schematic1(sch_1):ins22549@analog.\c.normal\(chips)!C_CAP_CL31_SAM_4.7UF!!!F41!!!!!!
+S!GND!C13!2!@design3.schematic1(sch_1):ins22549@analog.\c.normal\(chips)!C_CAP_CL31_SAM_4.7UF!!!F41!!!!!!
+S!3.3V!C18!1!@design3.schematic1(sch_1):ins28241@analog.\c.normal\(chips)!C_CAP_CL31_SAM_4.7UF!!!F40!!!!!!
+S!GND!C18!2!@design3.schematic1(sch_1):ins28241@analog.\c.normal\(chips)!C_CAP_CL31_SAM_4.7UF!!!F40!!!!!!
+S!3.7V LI-PO!C22!1!@design3.schematic1(sch_1):ins40499@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F37!!!!!!
+S!GND!C22!2!@design3.schematic1(sch_1):ins40499@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F37!!!!!!
+S!1.8V!C23!1!@design3.schematic1(sch_1):ins41267@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F36!!!!!!
+S!GND!C23!2!@design3.schematic1(sch_1):ins41267@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F36!!!!!!
+S!3.3V!C14!1!@design3.schematic1(sch_1):ins24172@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F39!!!!!!
+S!GND!C14!2!@design3.schematic1(sch_1):ins24172@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F39!!!!!!
+S!GND!C16!1!@design3.schematic1(sch_1):ins27756@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F38!!!!!!
+S!N27840!C16!2!@design3.schematic1(sch_1):ins27756@analog.\c.normal\(chips)!C_CAP_CL31_SAM_1UF!!!F38!!!!!!
+S!GND!C15!1!@design3.schematic1(sch_1):ins25052@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F35!!!!!!
+S!13V!C15!2!@design3.schematic1(sch_1):ins25052@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F35!!!!!!
+S!GND!C17!1!@design3.schematic1(sch_1):ins28215@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F34!!!!!!
+S!3.3V!C17!2!@design3.schematic1(sch_1):ins28215@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F34!!!!!!
+S!GND!C19!1!@design3.schematic1(sch_1):ins31436@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F33!!!!!!
+S!BUTTON_2!C19!2!@design3.schematic1(sch_1):ins31436@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F33!!!!!!
+S!GND!C20!1!@design3.schematic1(sch_1):ins31464@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F32!!!!!!
+S!BUTTON_1!C20!2!@design3.schematic1(sch_1):ins31464@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F32!!!!!!
+S!GND!C21!1!@design3.schematic1(sch_1):ins31492@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F31!!!!!!
+S!BUTTON_3!C21!2!@design3.schematic1(sch_1):ins31492@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F31!!!!!!
+S!GND!C4!1!@design3.schematic1(sch_1):ins2831@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F30!!!!!!
+S!3.3V!C4!2!@design3.schematic1(sch_1):ins2831@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F30!!!!!!
+S!GND!C5!1!@design3.schematic1(sch_1):ins3378@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F29!!!!!!
+S!ESP32_EN!C5!2!@design3.schematic1(sch_1):ins3378@analog.\c.normal\(chips)!C_CAP_CL31_SAM_0.1UF!!!F29!!!!!!
+S!AGND!C8!1!@design3.schematic1(sch_1):ins7993@analog.\c.normal\(chips)!C_CAP_CL21_SAM_0.01UF!!!F28!!!!!!
+S!GND!C8!2!@design3.schematic1(sch_1):ins7993@analog.\c.normal\(chips)!C_CAP_CL21_SAM_0.01UF!!!F28!!!!!!
+S!GND!J2!1!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!10!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!11!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!!J2!12!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!DISP_MOSI!J2!13!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!DISP_SCK!J2!14!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!15!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!16!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!N15734!J2!17!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!N15026!J2!18!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!DISP_CS!J2!19!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!13V!J2!2!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!DISP_DC!J2!20!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!DISP_RES!J2!21!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!N27245!J2!22!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!!J2!23!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!!J2!24!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!!J2!25!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!N27840!J2!26!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!3.3V!J2!27!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!28!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!!J2!29!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!N22987!J2!3!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!30!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!3.3V!J2!4!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!N26816!J2!5!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!!J2!6!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!7!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!8!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!GND!J2!9!@design3.schematic1(sch_1):ins12892@design3.\sipsoc-32_3.normal\(chips)!SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A!!!F25!!!!!!
+S!3.7V LI-PO!L1!1!@design3.schematic1(sch_1):ins17792@analog.\l.normal\(chips)!L_IND_WE-TPC_SMT_2828_WRE_22UH!!!F24!!!!!!
+S!N18724!L1!2!@design3.schematic1(sch_1):ins17792@analog.\l.normal\(chips)!L_IND_WE-TPC_SMT_2828_WRE_22UH!!!F24!!!!!!
+S!N01223!R1!1!@design3.schematic1(sch_1):ins385@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F23!!!!!!
+S!GND!R1!2!@design3.schematic1(sch_1):ins385@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F23!!!!!!
+S!GND!R10!1!@design3.schematic1(sch_1):ins15040@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F22!!!!!!
+S!N15734!R10!2!@design3.schematic1(sch_1):ins15040@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F22!!!!!!
+S!N158330!R11!1!@design3.schematic1(sch_1):ins17044@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F21!!!!!!
+S!3.7V LI-PO!R11!2!@design3.schematic1(sch_1):ins17044@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F21!!!!!!
+S!GND!R2!1!@design3.schematic1(sch_1):ins401@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F20!!!!!!
+S!N00421!R2!2!@design3.schematic1(sch_1):ins401@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F20!!!!!!
+S!3.3V!R3!1!@design3.schematic1(sch_1):ins3328@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F19!!!!!!
+S!ESP32_EN!R3!2!@design3.schematic1(sch_1):ins3328@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F19!!!!!!
+S!3.7V LI-PO!R4!1!@design3.schematic1(sch_1):ins4743@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F18!!!!!!
+S!N04908!R4!2!@design3.schematic1(sch_1):ins4743@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F18!!!!!!
+S!GND!R9!1!@design3.schematic1(sch_1):ins14965@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F17!!!!!!
+S!N15026!R9!2!@design3.schematic1(sch_1):ins14965@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K!!!F17!!!!!!
+S!13V!R12!1!@design3.schematic1(sch_1):ins17272@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K 0.1%!!!F16!!!!!!
+S!N20621!R12!2!@design3.schematic1(sch_1):ins17272@analog.\r.normal\(chips)!R_RES_RC1206_YAG_10K 0.1%!!!F16!!!!!!
+S!N20621!R13!1!@design3.schematic1(sch_1):ins17298@analog.\r.normal\(chips)!R_RESC1608X55N_156 0.1%!!!F15!!!!!!
+S!GND!R13!2!@design3.schematic1(sch_1):ins17298@analog.\r.normal\(chips)!R_RESC1608X55N_156 0.1%!!!F15!!!!!!
+S!N26816!R14!1!@design3.schematic1(sch_1):ins26611@analog.\r.normal\(chips)!R_RES_RC1206_YAG_50 0.1% 0.4W!!!F14!!!!!!
+S!N266210!R14!2!@design3.schematic1(sch_1):ins26611@analog.\r.normal\(chips)!R_RES_RC1206_YAG_50 0.1% 0.4W!!!F14!!!!!!
+S!N27245!R15!1!@design3.schematic1(sch_1):ins27225@analog.\r.normal\(chips)!R_RC0805N_YAG_560K 1%!!!F13!!!!!!
+S!GND!R15!2!@design3.schematic1(sch_1):ins27225@analog.\r.normal\(chips)!R_RC0805N_YAG_560K 1%!!!F13!!!!!!
+S!3.3V!R5!1!@design3.schematic1(sch_1):ins5512@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F12!!!!!!
+S!I2C_SCL!R5!2!@design3.schematic1(sch_1):ins5512@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F12!!!!!!
+S!3.3V!R6!1!@design3.schematic1(sch_1):ins6558@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F11!!!!!!
+S!I2C_SDA!R6!2!@design3.schematic1(sch_1):ins6558@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F11!!!!!!
+S!3.3V!R7!1!@design3.schematic1(sch_1):ins10697@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F10!!!!!!
+S!I2C_SDA!R7!2!@design3.schematic1(sch_1):ins10697@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F10!!!!!!
+S!3.3V!R8!1!@design3.schematic1(sch_1):ins10713@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F9!!!!!!
+S!I2C_SCL!R8!2!@design3.schematic1(sch_1):ins10713@analog.\r.normal\(chips)!R_RES_RC1206_YAG_1K!!!F9!!!!!!
+S!GND!SW1!1!@design3.schematic1(sch_1):ins31366@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F8!!!!!!
+S!BUTTON_1!SW1!2!@design3.schematic1(sch_1):ins31366@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F8!!!!!!
+S!GND!SW1!3!@design3.schematic1(sch_1):ins31366@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F8!!!!!!
+S!GND!SW2!1!@design3.schematic1(sch_1):ins31384@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F7!!!!!!
+S!BUTTON_2!SW2!2!@design3.schematic1(sch_1):ins31384@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F7!!!!!!
+S!GND!SW2!3!@design3.schematic1(sch_1):ins31384@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F7!!!!!!
+S!GND!SW3!1!@design3.schematic1(sch_1):ins31402@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F6!!!!!!
+S!BUTTON_3!SW3!2!@design3.schematic1(sch_1):ins31402@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F6!!!!!!
+S!GND!SW3!3!@design3.schematic1(sch_1):ins31402@\2023-08-07_23-28-56\.\tl4105af160qg.normal\(sch_1)!TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG!!!F6!!!!!!
+S!3.3V!U1!2!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!ESP32_EN!U1!3!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!GND!U1!1!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!GND!U1!40!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!GND!U1!41!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!N00421!U1!27!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!I2C_SCL!U1!39!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!18!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!19!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!20!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!DISP_MOSI!U1!21!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!DISP_SCK!U1!22!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!BUTTON_2!U1!8!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!BUTTON_3!U1!9!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!10!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!11!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!USB D-!U1!13!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!I2C_SDA!U1!38!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!USB D+!U1!14!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!DISP_CS!U1!23!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!N01223!U1!15!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!28!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!29!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!30!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!31!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!TCK!U1!32!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!4!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!TDO!U1!33!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!TDI!U1!34!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!TMS!U1!35!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!26!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!16!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!DISP_DC!U1!24!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!DISP_RES!U1!25!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!5!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!6!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!BUTTON_1!U1!7!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!12!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!!U1!17!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!RX!U1!36!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!TX!U1!37!@design3.schematic1(sch_1):ins104@\2023-08-05_04-09-50\.\esp32-s3-wroom-1-n8.normal\(sch_1)!ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8!!!F5!!!!!!
+S!GND!U2!1!@design3.schematic1(sch_1):ins1481@design3.\cslsoc-4_3.normal\(chips)!CSLSOC-4_3_SOT223-3_MXL_SPX1117M3-L-3-3/TR!!!F4!!!!!!
+S!3.3V!U2!2!@design3.schematic1(sch_1):ins1481@design3.\cslsoc-4_3.normal\(chips)!CSLSOC-4_3_SOT223-3_MXL_SPX1117M3-L-3-3/TR!!!F4!!!!!!
+S!3.7V LI-PO!U2!3!@design3.schematic1(sch_1):ins1481@design3.\cslsoc-4_3.normal\(chips)!CSLSOC-4_3_SOT223-3_MXL_SPX1117M3-L-3-3/TR!!!F4!!!!!!
+S!GND!U2!4!@design3.schematic1(sch_1):ins1481@design3.\cslsoc-4_3.normal\(chips)!CSLSOC-4_3_SOT223-3_MXL_SPX1117M3-L-3-3/TR!!!F4!!!!!!
+S!!U3!1!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!3.3V!U3!10!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!1.8V!U3!11!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!AGND!U3!12!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!!U3!13!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!!U3!14!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!I2C_SCL!U3!2!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!I2C_SDA!U3!3!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!GND!U3!4!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!!U3!5!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!!U3!6!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!!U3!7!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!!U3!8!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!3.3V!U3!9!@design3.schematic1(sch_1):ins4163@design3.\dipsoc-7x2_0.normal\(chips)!DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T!!!F3!!!!!!
+S!3.7V LI-PO!U4!1!@design3.schematic1(sch_1):ins4514@design3.\dipsoc-3x2_0.normal\(chips)!DIPSOC-3X2_0_AP2112K-1P8TRG1_DIO_AP2112K-1.8TRG1!!!F2!!!!!!
+S!GND!U4!2!@design3.schematic1(sch_1):ins4514@design3.\dipsoc-3x2_0.normal\(chips)!DIPSOC-3X2_0_AP2112K-1P8TRG1_DIO_AP2112K-1.8TRG1!!!F2!!!!!!
+S!N04908!U4!3!@design3.schematic1(sch_1):ins4514@design3.\dipsoc-3x2_0.normal\(chips)!DIPSOC-3X2_0_AP2112K-1P8TRG1_DIO_AP2112K-1.8TRG1!!!F2!!!!!!
+S!!U4!4!@design3.schematic1(sch_1):ins4514@design3.\dipsoc-3x2_0.normal\(chips)!DIPSOC-3X2_0_AP2112K-1P8TRG1_DIO_AP2112K-1.8TRG1!!!F2!!!!!!
+S!1.8V!U4!5!@design3.schematic1(sch_1):ins4514@design3.\dipsoc-3x2_0.normal\(chips)!DIPSOC-3X2_0_AP2112K-1P8TRG1_DIO_AP2112K-1.8TRG1!!!F2!!!!!!
+S!GND!U5!1!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!3.7V LI-PO!U5!2!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!3.7V LI-PO!U5!3!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!GND!U5!4!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!!U5!5!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!GND!U5!6!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!I2C_SCL!U5!7!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!I2C_SDA!U5!8!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!GND!U5!9!@design3.schematic1(sch_1):ins9833@design3.\zifsoc-7x2_0.normal\(chips)!ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10!!!F1!!!!!!
+S!N158330!U6!1!@design3.schematic1(sch_1):ins15815@design3.\dipsoc-3x2_4.normal\(chips)!DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1!!!F0!!!!!!
+S!13V!U6!2!@design3.schematic1(sch_1):ins15815@design3.\dipsoc-3x2_4.normal\(chips)!DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1!!!F0!!!!!!
+S!3.7V LI-PO!U6!3!@design3.schematic1(sch_1):ins15815@design3.\dipsoc-3x2_4.normal\(chips)!DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1!!!F0!!!!!!
+S!N18724!U6!4!@design3.schematic1(sch_1):ins15815@design3.\dipsoc-3x2_4.normal\(chips)!DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1!!!F0!!!!!!
+S!GND!U6!5!@design3.schematic1(sch_1):ins15815@design3.\dipsoc-3x2_4.normal\(chips)!DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1!!!F0!!!!!!
+S!N20621!U6!6!@design3.schematic1(sch_1):ins15815@design3.\dipsoc-3x2_4.normal\(chips)!DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1!!!F0!!!!!!

@@ -1,0 +1,42 @@
+A!NET_NAME!NET_LOGICAL_PATH!NET_VOLTAGE!
+J!C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd!Tue Aug  8 14:51:09 2023!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!DESIGN3!25.015748 mil!4!UP TO DATE!
+S!N266210!@design3.schematic1(sch_1):n266210!!
+S!RX!@design3.schematic1(sch_1):rx!!
+S!TX!@design3.schematic1(sch_1):tx!!
+S!BUTTON_3!@design3.schematic1(sch_1):button_3!!
+S!BUTTON_2!@design3.schematic1(sch_1):button_2!!
+S!BUTTON_1!@design3.schematic1(sch_1):button_1!!
+S!N04908!@design3.schematic1(sch_1):n04908!!
+S!AGND!@design3.schematic1(sch_1):agnd!!
+S!DISP_DC!@design3.schematic1(sch_1):disp_dc!!
+S!BP_SDA!@design3.schematic1(sch_1):bp_sda!!
+S!DISP_RES!@design3.schematic1(sch_1):disp_res!!
+S!BP_SCL!@design3.schematic1(sch_1):bp_scl!!
+S!DISP_CS!@design3.schematic1(sch_1):disp_cs!!
+S!DISP_SCK!@design3.schematic1(sch_1):disp_sck!!
+S!DISP_MOSI!@design3.schematic1(sch_1):disp_mosi!!
+S!N27840!@design3.schematic1(sch_1):n27840!!
+S!1.8V!@design3.schematic1(sch_1):\1.8v\!!
+S!N27245!@design3.schematic1(sch_1):n27245!!
+S!N26816!@design3.schematic1(sch_1):n26816!!
+S!GND!@design3.schematic1(sch_1):gnd!!
+S!N22987!@design3.schematic1(sch_1):n22987!!
+S!N20621!@design3.schematic1(sch_1):n20621!!
+S!13V!@design3.schematic1(sch_1):\13v\!!
+S!ESP32_EN!@design3.schematic1(sch_1):esp32_en!!
+S!N18724!@design3.schematic1(sch_1):n18724!!
+S!N158330!@design3.schematic1(sch_1):n158330!!
+S!3.3V!@design3.schematic1(sch_1):\3.3v\!!
+S!3.7V LI-PO!@design3.schematic1(sch_1):\3.7v li-po\!!
+S!N15734!@design3.schematic1(sch_1):n15734!!
+S!N01223!@design3.schematic1(sch_1):n01223!!
+S!N15026!@design3.schematic1(sch_1):n15026!!
+S!TCK!@design3.schematic1(sch_1):tck!!
+S!TDO!@design3.schematic1(sch_1):tdo!!
+S!TDI!@design3.schematic1(sch_1):tdi!!
+S!TMS!@design3.schematic1(sch_1):tms!!
+S!N00421!@design3.schematic1(sch_1):n00421!!
+S!USB D+!@design3.schematic1(sch_1):\usb d+\!!
+S!USB D-!@design3.schematic1(sch_1):\usb d-\!!
+S!BM_SCL!@design3.schematic1(sch_1):bm_scl!!
+S!BM_SDA!@design3.schematic1(sch_1):bm_sda!!

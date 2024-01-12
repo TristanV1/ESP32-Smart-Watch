@@ -1,0 +1,6 @@
+skill load "C:/Users/12289/Desktop/AP2112K-1-8TRG1/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/AP2112K-1-8TRG1/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/AP2112K-1-8TRG1/AllegroV17_2/AP2112K-1P8TRG1_DIO-L.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/AP2112K-1-8TRG1/AllegroV17_2/AP2112K-1P8TRG1_DIO-M.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/AP2112K-1-8TRG1/AllegroV17_2/AP2112K-1P8TRG1_DIO.xml" 
+exit 

@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Users/12289/esp/**",
+                "C:/Users/12289/esp/esp-idf/components/freertos/FreeRTOS-Kernel-SMP/include/freertos",
+                "${workspaceFolder}/build/bootloader/config",
+                "C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/ProjectCode/main/Libraries/Bluetooth"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Users\\12289\\.espressif\\tools\\xtensa-esp32s3-elf\\esp-12.2.0_20230208\\xtensa-esp32s3-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}

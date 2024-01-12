@@ -1,0 +1,24 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "R7",
+			"C_PATH" : "@design3.schematic1(sch_1):ins10697@analog.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R7"
+		},
+		{
+			"Name" : "R8",
+			"C_PATH" : "@design3.schematic1(sch_1):ins10713@analog.\\r.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R8"
+		}
+	],
+	"Net" : [],
+	"Connection" : []
+}

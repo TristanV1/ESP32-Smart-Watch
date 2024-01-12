@@ -1,0 +1,6 @@
+skill load "C:/Users/12289/Desktop/CL21B103KBANNNC/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/CL21B103KBANNNC/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/CL21B103KBANNNC/AllegroV17_2/CAP_CL21_SAM-L.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/CL21B103KBANNNC/AllegroV17_2/CAP_CL21_SAM-M.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/CL21B103KBANNNC/AllegroV17_2/CAP_CL21_SAM.xml" 
+exit 

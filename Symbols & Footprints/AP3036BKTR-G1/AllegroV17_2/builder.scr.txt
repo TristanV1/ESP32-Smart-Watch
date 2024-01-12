@@ -1,0 +1,6 @@
+skill load "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO-L.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO-M.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO.xml" 
+exit 

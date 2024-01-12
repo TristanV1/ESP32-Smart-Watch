@@ -1,0 +1,156 @@
+\t (00:00:03) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Aug  5 00:51:57 2023
+\t (00:00:03)         Host=DESKTOP-AQ1B764 User=12289 Pid=28988 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 116667
+\i (00:00:03) replay builder.scr.txt 
+\i (00:00:03) skill 'load "C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/builder.ile" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'changeWorkingDir "C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2" ' 
+   (00:00:03) t
+\i (00:00:03) skill 'LB_createFootprint "C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/RES_RC1206_YAG-L.xml" ' 
+\t (00:00:03) Reading Footprint XML
+\t (00:00:03) Creating padstacks
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 804
+\i (00:00:03) trapsize 826
+\i (00:00:03) trapsize 804
+\i (00:00:03) trapsize 974
+\i (00:00:03) trapsize 974
+\i (00:00:03) trapsize 97365
+\t (00:00:03) Performing DRC...
+\t (00:00:03) Multithreaded DRC update (12 threads).
+\t (00:00:03) No DRC errors detected.
+\t (00:00:03) Opening Design "RES_RC1206_YAG-L.dra"
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 80398
+\i (00:00:04) trapsize 82612
+\i (00:00:04) trapsize 80398
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\i (00:00:04) trapsize 97365
+\t (00:00:04) Performing DRC...
+\t (00:00:04) No DRC errors detected.
+\i (00:00:04) trapsize 22958
+\t (00:00:04) Creating TextBlocks
+\t (00:00:04) Creating Shapes on Package layers
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:04) *WARNING* (axlLayerCreateNonConductor): No match for class name - ("ROUTEKEEPOUT/TOP")
+   (00:00:04) *WARNING* (axlDBCreateOpenShape): No match for class name - "ROUTEKEEPOUT/TOP"
+   (00:00:04) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+\t (00:00:04) Creating Pins
+\t (00:00:04) Creating Vias
+\t (00:00:04) Attaching Step
+\t (00:00:04) Creating package symbol 'C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/res_rc1206_yag-l.psm'.
+\t (00:00:04) Starting Create symbol...
+\t (00:00:04) Symbol Created
+   (00:00:04) Loading cmds.cxt 
+   (00:00:04) Loading skillExt.cxt 
+\i (00:00:04) trapsize 628
+\t (00:00:04) Opening existing design...
+\i (00:00:04) trapsize 628
+\i (00:00:04) trapsize 645
+\i (00:00:04) trapsize 628
+\i (00:00:04) trapsize 628
+\d (00:00:04) Design opened: C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/RES_RC1206_YAG-L.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/RES_RC1206_YAG-M.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 14962
+\i (00:00:05) trapsize 15374
+\i (00:00:05) trapsize 14962
+\i (00:00:05) trapsize 22958
+\i (00:00:05) trapsize 22958
+\i (00:00:05) trapsize 22958
+\t (00:00:05) Performing DRC...
+\i (00:00:05) trapsize 22073
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "RES_RC1206_YAG-M.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 14962
+\i (00:00:05) trapsize 15374
+\i (00:00:05) trapsize 14962
+\i (00:00:05) trapsize 22958
+\i (00:00:05) trapsize 22958
+\i (00:00:05) trapsize 22958
+\t (00:00:05) Performing DRC...
+\i (00:00:05) trapsize 22073
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 22216
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:05) *WARNING* (axlLayerCreateNonConductor): No match for class name - ("ROUTEKEEPOUT/TOP")
+   (00:00:05) *WARNING* (axlDBCreateOpenShape): No match for class name - "ROUTEKEEPOUT/TOP"
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Attaching Step
+\t (00:00:05) Creating package symbol 'C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/res_rc1206_yag-m.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:06) Symbol Created
+\i (00:00:06) trapsize 727
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 727
+\i (00:00:06) trapsize 747
+\i (00:00:06) trapsize 727
+\i (00:00:06) trapsize 757
+\d (00:00:06) Design opened: C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/RES_RC1206_YAG-M.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/RES_RC1206_YAG.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 14962
+\i (00:00:06) trapsize 15374
+\i (00:00:06) trapsize 14962
+\i (00:00:06) trapsize 23107
+\i (00:00:06) trapsize 23107
+\i (00:00:06) trapsize 23107
+\t (00:00:06) Performing DRC...
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "RES_RC1206_YAG.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 14962
+\i (00:00:06) trapsize 15374
+\i (00:00:06) trapsize 14962
+\i (00:00:06) trapsize 23107
+\i (00:00:06) trapsize 23107
+\i (00:00:06) trapsize 23107
+\t (00:00:06) Performing DRC...
+\i (00:00:07) trapsize 22216
+\t (00:00:07) No DRC errors detected.
+\i (00:00:07) trapsize 22134
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+   (00:00:07) *WARNING* (axlLayerCreateNonConductor): No match for class name - ("ROUTEKEEPOUT/TOP")
+   (00:00:07) *WARNING* (axlDBCreateOpenShape): No match for class name - "ROUTEKEEPOUT/TOP"
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 26.0)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Attaching Step
+\t (00:00:07) Creating package symbol 'C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/res_rc1206_yag.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 658
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 658
+\i (00:00:07) trapsize 677
+\i (00:00:07) trapsize 659
+\i (00:00:07) trapsize 685
+\d (00:00:07) Design opened: C:/Users/12289/Desktop/RC1206FR-1310KL/AllegroV17_2/RES_RC1206_YAG.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sat Aug  5 00:52:02 2023

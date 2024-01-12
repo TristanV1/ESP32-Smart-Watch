@@ -1,0 +1,150 @@
+\t (00:00:03) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Aug  7 17:44:48 2023
+\t (00:00:03)         Host=DESKTOP-AQ1B764 User=12289 Pid=18984 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 116667
+\i (00:00:06) replay builder.scr.txt 
+\i (00:00:06) skill 'load "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/builder.ile" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'changeWorkingDir "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC-L.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 833
+\i (00:00:06) trapsize 856
+\i (00:00:06) trapsize 833
+\i (00:00:06) trapsize 974
+\i (00:00:06) trapsize 974
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (12 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "CR_SOD323_MCC-L.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 83267
+\i (00:00:06) trapsize 85644
+\i (00:00:06) trapsize 83267
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:07) No DRC errors detected.
+\i (00:00:07) trapsize 23643
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Attaching Step
+\t (00:00:07) Creating package symbol 'C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/cr_sod323_mcc-l.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\i (00:00:07) trapsize 648
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 626
+\i (00:00:07) trapsize 643
+\i (00:00:07) trapsize 626
+\i (00:00:07) trapsize 648
+\d (00:00:07) Design opened: C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC-L.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) skill 'LB_createFootprint "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC-M.xml" ' 
+\t (00:00:07) Reading Footprint XML
+\t (00:00:07) Creating padstacks
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 15408
+\i (00:00:07) trapsize 15832
+\i (00:00:07) trapsize 15408
+\i (00:00:07) trapsize 23643
+\i (00:00:07) trapsize 23643
+\i (00:00:07) trapsize 23643
+\t (00:00:07) Performing DRC...
+\i (00:00:07) trapsize 22731
+\t (00:00:08) No DRC errors detected.
+\t (00:00:08) Opening Design "CR_SOD323_MCC-M.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15408
+\i (00:00:08) trapsize 15832
+\i (00:00:08) trapsize 15408
+\i (00:00:08) trapsize 23643
+\i (00:00:08) trapsize 23643
+\i (00:00:08) trapsize 23643
+\t (00:00:08) Performing DRC...
+\i (00:00:08) trapsize 22731
+\t (00:00:08) No DRC errors detected.
+\i (00:00:08) trapsize 22808
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Attaching Step
+\t (00:00:08) Creating package symbol 'C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/cr_sod323_mcc-m.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 785
+\t (00:00:08) Opening existing design...
+\i (00:00:08) trapsize 785
+\i (00:00:08) trapsize 806
+\i (00:00:08) trapsize 785
+\i (00:00:08) trapsize 816
+\d (00:00:08) Design opened: C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC-M.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) skill 'LB_createFootprint "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:09) Creating padstacks
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 15408
+\i (00:00:09) trapsize 15832
+\i (00:00:09) trapsize 15408
+\i (00:00:09) trapsize 23723
+\i (00:00:09) trapsize 23723
+\i (00:00:09) trapsize 23723
+\t (00:00:09) Performing DRC...
+\i (00:00:09) trapsize 22808
+\t (00:00:09) No DRC errors detected.
+\t (00:00:09) Opening Design "CR_SOD323_MCC.dra"
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 15408
+\i (00:00:09) trapsize 15832
+\i (00:00:09) trapsize 15408
+\i (00:00:09) trapsize 23723
+\i (00:00:09) trapsize 23723
+\i (00:00:09) trapsize 23723
+\t (00:00:09) Performing DRC...
+\t (00:00:09) No DRC errors detected.
+\i (00:00:09) trapsize 23683
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+   (00:00:09) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 45.0)
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Attaching Step
+\t (00:00:09) Creating package symbol 'C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/cr_sod323_mcc.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 685
+\t (00:00:09) Opening existing design...
+\i (00:00:10) trapsize 685
+\i (00:00:10) trapsize 704
+\i (00:00:10) trapsize 685
+\i (00:00:10) trapsize 713
+\d (00:00:10) Design opened: C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC.dra
+\t (00:00:10) Symbol Saved
+   (00:00:10) t
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Mon Aug  7 17:44:55 2023

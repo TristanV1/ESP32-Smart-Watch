@@ -1,0 +1,110 @@
+\t (00:00:02) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Aug  7 14:17:54 2023
+\t (00:00:02)         Host=DESKTOP-AQ1B764 User=12289 Pid=19140 CPUs=12
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\12289\Desktop\XF2M-3015-1A\AllegroV17_2\CON30_1X30_DRB_XF2C_TYC.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "CON30_1X30_DRB_XF2C_TYC"
+\d (00:00:05) Design opened: C:/Users/12289/Desktop/XF2M-3015-1A/AllegroV17_2/CON30_1X30_DRB_XF2C_TYC.dra
+\i (00:00:05) trapsize 2541
+\i (00:00:05) trapsize 2609
+\i (00:00:05) trapsize 2541
+\i (00:00:05) trapsize 2611
+\i (00:00:05) trapsize 2664
+\i (00:00:05) generaledit 
+\i (00:00:06) roam start
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -176
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -16
+\i (00:00:06) roam x -16
+\i (00:00:06) roam end
+\i (00:00:34) pick grid -105.421 83.206
+\t (00:00:34) last pick:  -105.400 83.200
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -104.356 82.141
+\i (00:00:35) trapsize 5327
+\i (00:00:35) drag_start grid 402.794 143.936
+\i (00:00:36) drag_stop -253.517 -149.060
+\i (00:00:37) pick grid 0.058 -317.400
+\t (00:00:37) last pick:  0.100 -317.400
+\i (00:00:38) setwindow form.find
+\i (00:00:38) FORM find all_on  
+\i (00:00:39) setwindow pcb
+\i (00:00:39) drag_start grid -580.608 176.965
+\i (00:00:39) drag_stop 610.555 -250.277
+\i (00:00:40) pick grid 255.763 -256.670
+\t (00:00:40) last pick:  255.800 -256.700
+\i (00:00:41) prepopup 107.667 35.261
+\i (00:00:41) pick grid 352.719 59.766
+\t (00:00:41) last pick:  352.700 59.800
+\i (00:00:42) pick grid 313.297 -195.940
+\t (00:00:42) last pick:  313.300 -195.900
+\i (00:00:43) drag_start grid 475.244 -134.144
+\i (00:00:43) drag_stop -480.456 170.572
+\i (00:00:44) prepopup -329.164 55.504
+\i (00:00:48) pick grid -72.392 -434.599
+\t (00:00:48) last pick:  -72.400 -434.600
+\i (00:00:51) pick grid 343.130 -409.028
+\t (00:00:51) last pick:  343.100 -409.000
+\i (00:00:52) pick grid 415.580 -454.842
+\t (00:00:52) last pick:  415.600 -454.800
+\i (00:00:57) pick grid -513.485 185.488
+\t (00:00:57) last pick:  -513.500 185.500
+\i (00:00:58) pick grid -430.381 -181.024
+\t (00:00:58) last pick:  -430.400 -181.000
+\i (00:00:58) pick grid -362.192 48.046
+\t (00:00:58) last pick:  -362.200 48.000
+\i (00:00:59) pick grid -442.100 76.813
+\t (00:00:59) last pick:  -442.100 76.800
+\i (00:00:59) drag_start grid -452.755 147.132
+\i (00:00:59) drag_stop 534.909 -228.968
+\i (00:01:02) QtFillin ""
+\i (00:01:07) pick grid 427.299 -364.279
+\t (00:01:07) last pick:  427.300 -364.300
+\i (00:01:07) prepopup 300.512 -76.610
+\i (00:01:11) pop dyn_option_select @:@Move 
+\i (00:01:11) move 
+\t (00:01:11) last pick:  300.500 -76.600
+\t (00:01:11) last pick:  284.833 -93.100
+\t (00:01:11) Pick new location for the element(s).
+\i (00:01:13) undo 
+\i (00:01:13) trapsize 5327
+\i (00:01:13) generaledit 
+\i (00:01:13) pick grid 394.271 -172.500
+\t (00:01:13) last pick:  394.300 -172.500
+\i (00:01:14) drag_start grid 488.030 -166.107
+\i (00:01:14) drag_stop -512.420 175.899
+\i (00:01:14) prepopup -309.986 78.944
+\i (00:01:15) pop dyn_option_select @:@Move 
+\i (00:01:15) move 
+\t (00:01:15) last pick:  -310.000 78.900
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Element has no origin, using pick.
+\t (00:01:15) Pick new location for the element(s).
+\i (00:01:16) prepopup -299.331 80.010
+\i (00:01:19) cancel 
+\i (00:01:19) generaledit 
+\i (00:01:20) pick grid 181.183 -207.660
+\t (00:01:20) last pick:  181.200 -207.700
+\i (00:01:21) exit 
+\e (00:01:21) Do you want to save the changes you made to CON30_1X30_DRB_XF2C_TYC.dra?
+\i (00:01:22) fillin no 
+\t (00:01:22)     Journal end - Mon Aug  7 14:19:15 2023

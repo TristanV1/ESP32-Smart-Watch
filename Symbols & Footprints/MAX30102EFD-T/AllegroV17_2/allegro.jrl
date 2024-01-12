@@ -1,0 +1,139 @@
+\t (00:00:03) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Aug  5 22:58:54 2023
+\t (00:00:03)         Host=DESKTOP-AQ1B764 User=12289 Pid=28080 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_F143A51_MXM-L.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 804
+\i (00:00:04) trapsize 826
+\i (00:00:04) trapsize 804
+\i (00:00:04) trapsize 931
+\i (00:00:04) trapsize 931
+\i (00:00:04) trapsize 93100
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (12 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "21-1048_F143A51_MXM-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 80398
+\i (00:00:04) trapsize 82612
+\i (00:00:04) trapsize 80398
+\i (00:00:05) trapsize 93100
+\i (00:00:05) trapsize 93100
+\i (00:00:05) trapsize 93100
+\t (00:00:05) Performing DRC...
+\t (00:00:05) No DRC errors detected.
+\i (00:00:05) trapsize 24183
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+   (00:00:05) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 65.0)
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Attaching Step
+\t (00:00:05) Creating package symbol 'C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_f143a51_mxm-l.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\i (00:00:06) trapsize 1369
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 1369
+\i (00:00:06) trapsize 1407
+\i (00:00:06) trapsize 1369
+\i (00:00:06) trapsize 1422
+\d (00:00:06) Design opened: C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_F143A51_MXM-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_F143A51_MXM-M.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 15444
+\i (00:00:06) trapsize 15869
+\i (00:00:06) trapsize 15444
+\i (00:00:06) trapsize 24183
+\i (00:00:06) trapsize 24183
+\i (00:00:06) trapsize 24183
+\t (00:00:06) Performing DRC...
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Opening Design "21-1048_F143A51_MXM-M.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 15444
+\i (00:00:06) trapsize 15869
+\i (00:00:06) trapsize 15444
+\i (00:00:07) trapsize 24183
+\i (00:00:07) trapsize 24183
+\i (00:00:07) trapsize 24183
+\t (00:00:07) Performing DRC...
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 65.0)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Attaching Step
+\t (00:00:07) Creating package symbol 'C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_f143a51_mxm-m.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 1424
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 1424
+\i (00:00:07) trapsize 1463
+\i (00:00:07) trapsize 1424
+\i (00:00:07) trapsize 1478
+\d (00:00:07) Design opened: C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_F143A51_MXM-M.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) skill 'LB_createFootprint "C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_F143A51_MXM.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15444
+\i (00:00:08) trapsize 15869
+\i (00:00:08) trapsize 15444
+\i (00:00:08) trapsize 24183
+\i (00:00:08) trapsize 24183
+\i (00:00:08) trapsize 24183
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\t (00:00:08) Opening Design "21-1048_F143A51_MXM.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15444
+\i (00:00:08) trapsize 15869
+\i (00:00:08) trapsize 15444
+\i (00:00:08) trapsize 24183
+\i (00:00:08) trapsize 24183
+\i (00:00:08) trapsize 24183
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 65.0)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Attaching Step
+\t (00:00:08) Creating package symbol 'C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_f143a51_mxm.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 1369
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 1369
+\i (00:00:09) trapsize 1407
+\i (00:00:09) trapsize 1369
+\i (00:00:09) trapsize 1422
+\d (00:00:09) Design opened: C:/Users/12289/Desktop/MAX30102EFD-T/AllegroV17_2/21-1048_F143A51_MXM.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Sat Aug  5 22:59:00 2023

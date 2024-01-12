@@ -1,0 +1,371 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  1.8V         pins ADDED TO this new net
+                                 C7.2           U3.11          U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3.3V         pins ADDED TO this new net
+                                 C2.2           C3.2           C4.2           
+                                 C6.2           C14.1          C17.2          
+                                 C18.1          J2.4           J2.27          
+                                 R3.1           R5.1           R6.1           
+                                 R7.1           R8.1           U1.2           
+                                 U2.2           U3.9           U3.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3.7V LI-PO   pins ADDED TO this new net
+                                 C1.2           C9.2           C10.2          
+                                 J1.1           L1.1           R4.1           
+                                 R11.2          U2.3           U4.1           
+                                 U5.2           U5.3           U6.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  13V          pins ADDED TO this new net
+                                 C11.2          C12.2          C15.2          
+                                 J2.2           R12.1          U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  0            pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 C4.1           C5.1           C8.2           
+                                 C9.1           C10.1          C11.1          
+                                 C12.1          C13.2          C14.2          
+                                 C15.1          C16.1          C17.1          
+                                 C18.2          C19.1          C20.1          
+                                 C21.1          J1.2           J2.1           
+                                 J2.7           J2.8           J2.9           
+                                 J2.10          J2.11          J2.15          
+                                 J2.16          J2.28          J2.30          
+                                 R1.2           R2.1           R9.1           
+                                 R10.1          R13.2          R15.2          
+                                 SW1.1          SW1.3          SW2.1          
+                                 SW2.3          SW3.1          SW3.3          
+                                 U1.1           U1.40          U1.41          
+                                 U2.1           U2.4           U3.4           
+                                 U4.2           U5.1           U5.4           
+                                 U5.6           U5.9           U6.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AGND         pins ADDED TO this new net
+                                 C6.1           C7.1           C8.1           
+                                 U3.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  BM_SCL       pins ADDED TO this new net
+                                 R8.2           U1.29          U5.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BM_SDA       pins ADDED TO this new net
+                                 R7.2           U1.28          U5.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BP_SCL       pins ADDED TO this new net
+                                 R5.2           U1.39          U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BP_SDA       pins ADDED TO this new net
+                                 R6.2           U1.38          U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON_1     pins ADDED TO this new net
+                                 C19.2          SW2.2          U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON_2     pins ADDED TO this new net
+                                 C20.2          SW1.2          U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON_3     pins ADDED TO this new net
+                                 C21.2          SW3.2          U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DISP_CS      pins ADDED TO this new net
+                                 J2.19          U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DISP_DC      pins ADDED TO this new net
+                                 J2.20          U1.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DISP_MOSI    pins ADDED TO this new net
+                                 J2.13          U1.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DISP_RES     pins ADDED TO this new net
+                                 J2.21          U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DISP_SCK     pins ADDED TO this new net
+                                 J2.14          U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ESP32_EN     pins ADDED TO this new net
+                                 C5.2           R3.2           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00421       pins ADDED TO this new net
+                                 R2.2           U1.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01223       pins ADDED TO this new net
+                                 R1.1           U1.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N04908       pins ADDED TO this new net
+                                 R4.2           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15026       pins ADDED TO this new net
+                                 J2.18          R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15734       pins ADDED TO this new net
+                                 J2.17          R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18724       pins ADDED TO this new net
+                                 L1.2           U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N20621       pins ADDED TO this new net
+                                 R12.2          R13.1          U6.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N22987       pins ADDED TO this new net
+                                 C13.1          J2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26816       pins ADDED TO this new net
+                                 J2.5           R14.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27101       pins ADDED TO this new net
+                                 R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27245       pins ADDED TO this new net
+                                 J2.22          R15.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27840       pins ADDED TO this new net
+                                 C16.2          J2.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N158330      pins ADDED TO this new net
+                                 R11.1          U6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX           pins ADDED TO this new net
+                                 U1.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TCK          pins ADDED TO this new net
+                                 U1.32          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TDI          pins ADDED TO this new net
+                                 U1.34          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TDO          pins ADDED TO this new net
+                                 U1.33          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  TMS          pins ADDED TO this new net
+                                 U1.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  TX           pins ADDED TO this new net
+                                 U1.37          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB D+       pins ADDED TO this new net
+                                 U1.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  USB D-       pins ADDED TO this new net
+                                 U1.13          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CSLSOC-4_3_SOT223-3_MXL_SPX1117M3-L-3-3/TR
+ C_CAP_CL21_SAM_0.01UF
+ C_CAP_CL31_SAM_0.1UF
+ C_CAP_CL31_SAM_1UF
+ C_CAP_CL31_SAM_4.7UF
+ C_CAP_CL31_SAM_10UF
+ C_CAP_CL31_SAM_22UF
+ DIPSOC-3X2_0_AP2112K-1P8TRG1_DIO_AP2112K-1.8TRG1
+ DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1
+ DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T
+ ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8
+ L_IND_WE-TPC_SMT_2828_WRE_22UH
+ R_RC0805N_YAG_560K 1%
+ R_RESC1608X55N_156 0.1%
+ R_RES_RC1206_YAG_1K
+ R_RES_RC1206_YAG_10K 0.1%
+ R_RES_RC1206_YAG_10K
+ R_RES_RC1206_YAG_50 0.1% 0.4W
+ SIPSOC-3_0_CONN_S2B-PH-K-S_JST_S2B-PH-K-S
+ SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A
+ TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG
+ ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAP_CL31_SAM_10UF   
+ C2                  C_CAP_CL31_SAM_10UF   
+ C3                  C_CAP_CL31_SAM_10UF   
+ C4                  C_CAP_CL31_SAM_0.1UF  
+ C5                  C_CAP_CL31_SAM_0.1UF  
+ C6                  C_CAP_CL31_SAM_10UF   
+ C7                  C_CAP_CL31_SAM_10UF   
+ C8                  C_CAP_CL21_SAM_0.01UF 
+ C9                  C_CAP_CL31_SAM_10UF   
+ C10                 C_CAP_CL31_SAM_10UF   
+ C11                 C_CAP_CL31_SAM_22UF   
+ C12                 C_CAP_CL31_SAM_10UF   
+ C13                 C_CAP_CL31_SAM_4.7UF  
+ C14                 C_CAP_CL31_SAM_1UF    
+ C15                 C_CAP_CL31_SAM_0.1UF  
+ C16                 C_CAP_CL31_SAM_1UF    
+ C17                 C_CAP_CL31_SAM_0.1UF  
+ C18                 C_CAP_CL31_SAM_4.7UF  
+ C19                 C_CAP_CL31_SAM_0.1UF  
+ C20                 C_CAP_CL31_SAM_0.1UF  
+ C21                 C_CAP_CL31_SAM_0.1UF  
+ J1                  SIPSOC-3_0_CONN_S2B-PH-K-S_JST_S2B-PH-K-S 
+ J2                  SIPSOC-32_3_CON30_1X30_DRB_XF2C_TYC_XF2M-3015-1A 
+ L1                  L_IND_WE-TPC_SMT_2828_WRE_22UH 
+ R1                  R_RES_RC1206_YAG_10K  
+ R2                  R_RES_RC1206_YAG_10K  
+ R3                  R_RES_RC1206_YAG_10K  
+ R4                  R_RES_RC1206_YAG_10K  
+ R5                  R_RES_RC1206_YAG_1K   
+ R6                  R_RES_RC1206_YAG_1K   
+ R7                  R_RES_RC1206_YAG_1K   
+ R8                  R_RES_RC1206_YAG_1K   
+ R9                  R_RES_RC1206_YAG_10K  
+ R10                 R_RES_RC1206_YAG_10K  
+ R11                 R_RES_RC1206_YAG_10K  
+ R12                 R_RES_RC1206_YAG_10K 0.1% 
+ R13                 R_RESC1608X55N_156 0.1% 
+ R14                 R_RES_RC1206_YAG_50 0.1% 0.4W 
+ R15                 R_RC0805N_YAG_560K 1% 
+ SW1                 TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG 
+ SW2                 TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG 
+ SW3                 TL4105AF160QG_TL4105AF160QG_EWI_TL4105AF160QG 
+ U1                  ESP32-S3-WROOM-1-N8_ESP32-S3-WROOM-1-N8_EXP_ESP32-S3-WROOM-1-N8 
+ U2                  CSLSOC-4_3_SOT223-3_MXL_SPX1117M3-L-3-3/TR 
+ U3                  DIPSOC-7X2_0_21-1048_F143A51_MXM_MAX30102EFD+T 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U4                  DIPSOC-3X2_0_AP2112K-1P8TRG1_DIO_AP2112K-1.8TRG1 
+ U5                  ZIFSOC-7X2_0_21-0168E_T822-3_MXM_MAX17048G+T10 
+ U6                  DIPSOC-3X2_4_SOIC6_AP3036BKTR-G1_DIO_AP3036BKTR-G1 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C17.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.9                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ SW1.3                          PRIM_FILE      .\pstchip.dat
+ SW2.3                          PRIM_FILE      .\pstchip.dat
+ SW3.3                          PRIM_FILE      .\pstchip.dat
+ U1.37                          PRIM_FILE      .\pstchip.dat
+ U2.4                           PRIM_FILE      .\pstchip.dat
+ U3.9                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Mon Aug  7 19:41:06 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U4.5                           PRIM_FILE      .\pstchip.dat
+ U5.9                           PRIM_FILE      .\pstchip.dat
+ U6.6                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :     165                                        |
+|       Comp definitions added:      22                                        |
+|       Components added      :      48                                        |
+|       Slot property added   :      48                                        |
+|                                                                              |
+|   Total ECO changes reported:     283                                        |
+|------------------------------------------------------------------------------|

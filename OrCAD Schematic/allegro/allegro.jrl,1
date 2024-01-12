@@ -1,0 +1,38 @@
+\t (00:00:03) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Oct 18 21:52:58 2023
+\t (00:00:03)         Host=DESKTOP-AQ1B764 User=12289 Pid=16476 CPUs=12
+\t (00:00:03) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\12289\Desktop\ESP32_Smart_Watch_Project\OrCAD Schematic\allegro\temp.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged temp
+\d (00:00:06) Design opened: C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/temp.brd
+\i (00:00:06) trapsize 787
+\i (00:00:06) trapsize 808
+\i (00:00:06) trapsize 787
+\i (00:00:06) trapsize 839
+\i (00:00:06) trapsize 855
+\t (00:00:06) > Sending response DoneOpenBoard
+\i (00:00:06) generaledit 
+\i (00:00:10) artwork 
+\i (00:00:12) setwindow form.film_control
+\i (00:00:12) FORM film_control select_all  
+\i (00:01:31) FORM film_control create  
+\t (00:01:31) Checking db records
+\t (00:01:31)     checking for orphans...
+\t (00:01:31)     Checked 100 percent
+\t (00:01:31) Done dbdoctor.
+\t (00:01:31) Starting Create artwork films...
+\w (00:01:32) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:01:33) Artwork generated with warnings.
+\i (00:01:40) setwindow text
+\i (00:01:40) close
+\i (00:16:51) setwindow form.film_control
+\i (00:16:51) FORM film_control cancel  
+\i (00:16:51) setwindow pcb
+\i (00:16:51) generaledit 
+\i (00:16:52) exit 
+\e (00:16:52) Do you want to save the changes you made to temp.brd?
+\i (00:16:53) fillin no 
+   (00:16:53) Loading signal.cxt 
+\t (00:16:53)     Journal end - Wed Oct 18 22:09:48 2023

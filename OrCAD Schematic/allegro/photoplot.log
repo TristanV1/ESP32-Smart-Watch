@@ -1,0 +1,390 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : temp.brd                                      )
+(    Software Version : 17.4S037                                      )
+(    Date/Time        : Wed Oct 18 21:54:26 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (14).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32080                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  RECTANGLE  0.25400     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.35560      90.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180      90.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.24990       0.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990       0.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 1.47320      90.000 NO     DARK 
+  RECTANGLE  0.89000     x 0.92990       0.000 NO     DARK 
+  RECTANGLE  1.00330     x 3.20040       0.000 NO     DARK 
+  RECTANGLE  1.00480     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  1.00480     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  3.14960     x 1.47320      90.000 NO     DARK 
+  OBLONG     0.78740     x 1.49860      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SIGNAL1 >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/SIGNAL1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (12).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32080                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  OBLONG     0.78740     x 1.49860      90.000 NO     DARK 
+
+     SIGNAL1 created with warnings
+
+
+================================================================
+     PROCESSING FILM < SIGNAL2 >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/SIGNAL2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (14).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32080                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  OBLONG     0.78740     x 1.49860      90.000 NO     DARK 
+
+     SIGNAL2 created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (25).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.32080                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  SQUARE     3.70840                     0.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.25400       0.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.39700      90.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180      90.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990       0.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.83820       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.83820      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 1.29540       0.000 NO     DARK 
+  RECTANGLE  1.16840     x 0.45720       0.000 NO     DARK 
+  OBLONG     0.78740     x 1.49860      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (414.5000 235.2500)
+           ... using undefined line width of 0.1000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+
+     SILKSCREEN_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.32080                                  DARK 
+  CIRCLE     2.20000                                  DARK 
+  RECTANGLE  0.25400     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.35560      90.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180      90.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.24990       0.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990       0.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 1.47320      90.000 NO     DARK 
+  RECTANGLE  1.00330     x 3.20040       0.000 NO     DARK 
+  RECTANGLE  1.00480     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  1.00480     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.08990     x 1.13000       0.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  3.14960     x 1.47320      90.000 NO     DARK 
+  OBLONG     0.78740     x 1.49860      90.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.32080                                  DARK 
+  CIRCLE     2.30000                                  DARK 
+  SQUARE     3.70840                     0.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.25400       0.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.39700      90.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180       0.000 NO     DARK 
+  RECTANGLE  0.81280     x 1.70180      90.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990       0.000 NO     DARK 
+  RECTANGLE  0.85550     x 1.59990      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.83820       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.83820      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 1.29540       0.000 NO     DARK 
+  RECTANGLE  1.16840     x 0.45720       0.000 NO     DARK 
+  OBLONG     0.78740     x 1.49860      90.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     OUTLINE created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        SIGNAL1 created with warnings
+        SIGNAL2 created with warnings
+        BOTTOM created with warnings
+        SILKSCREEN_TOP created with warnings
+        SOLDERMASK_TOP created.
+        SOLDERMASK_BOTTOM created.
+        SILKSCREEN_BOTTOM created.
+        OUTLINE created.
+
+ ARTWORK had warnings

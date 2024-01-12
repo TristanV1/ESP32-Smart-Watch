@@ -1,0 +1,13 @@
+\t (00:00:13) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Mon Jan  8 08:48:15 2024
+\t (00:00:13)         Host=DESKTOP-AQ1B764 User=12289 Pid=46084 CPUs=12
+\t (00:00:13) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:13) 
+   (00:00:14) Loading axlcore.cxt 
+\e (00:00:14) Retrieval of 'OrCAD_Signal_Explorer' license failed: 'ERROR (LMF-13097): License call failed for feature OrCAD_Signal_Explorer. The license server search path is defined as <none>. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-97, 234, 0): The desired vendor daemon is down.
+
+Run 'lic_error LMF-13097' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:29) fillin confirm
+\i (00:00:30) fillin menu_cancel
+\t (00:00:30)     Journal end - Mon Jan  8 08:48:32 2024

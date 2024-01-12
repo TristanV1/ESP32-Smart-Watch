@@ -1,0 +1,1610 @@
+\t (00:00:02) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Aug  7 14:08:33 2023
+\t (00:00:02)         Host=DESKTOP-AQ1B764 User=12289 Pid=19252 CPUs=12
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\12289\Desktop\XF2M-3015-1A\AllegroV17_2\CON30_1X30_DRB_XF2C_TYC.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "CON30_1X30_DRB_XF2C_TYC"
+\d (00:00:05) Design opened: C:/Users/12289/Desktop/XF2M-3015-1A/AllegroV17_2/CON30_1X30_DRB_XF2C_TYC.dra
+\i (00:00:05) trapsize 2910
+\i (00:00:05) trapsize 2988
+\i (00:00:05) trapsize 2910
+\i (00:00:05) trapsize 2990
+\i (00:00:05) trapsize 3048
+\i (00:00:05) generaledit 
+\i (00:00:07) trapsize 3989
+\i (00:00:07) trapsize 3048
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -56.691 43.081
+\i (00:00:08) trapsize 6096
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -71.321 18.697
+\i (00:00:08) trapsize 12192
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -110.334 -144.529
+\i (00:00:08) trapsize 20887
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -804.329 -1289.512
+\i (00:00:08) trapsize 20887
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -319.761 -633.674
+\i (00:00:09) trapsize 10443
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -229.948 -598.167
+\i (00:00:09) trapsize 5222
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -224.726 -593.989
+\i (00:00:09) trapsize 2611
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -194.963 -524.542
+\i (00:00:09) trapsize 1305
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -194.701 -524.281
+\i (00:00:09) trapsize 653
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -191.046 -525.717
+\i (00:00:10) trapsize 1305
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -191.047 -525.978
+\i (00:00:10) trapsize 2611
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -190.002 -525.978
+\i (00:00:10) trapsize 5222
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -165.982 -518.667
+\i (00:00:10) trapsize 10443
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -157.627 -518.668
+\i (00:00:10) trapsize 20887
+\i (00:00:11) roam start
+\i (00:00:11) roam end
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -18.995 -253.539
+\i (00:00:12) trapsize 10443
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -33.615 -241.006
+\i (00:00:12) trapsize 5222
+\i (00:00:12) roam start
+\i (00:00:12) roam y -16
+\i (00:00:13) roam y -16
+\i (00:00:13) roam y -16
+\i (00:00:13) roam y -16
+\i (00:00:13) roam y -16
+\i (00:00:13) roam y -16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y -16
+\i (00:00:13) roam end
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -163.111 -105.244
+\i (00:00:13) trapsize 2611
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -181.387 -110.988
+\i (00:00:13) trapsize 1305
+\i (00:00:14) roam start
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 48
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 32
+\i (00:00:14) roam x 32
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 32
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 32
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 16
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 80
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 144
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 80
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 112
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 48
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 48
+\i (00:00:14) roam x 48
+\i (00:00:14) roam x 64
+\i (00:00:14) roam x 48
+\i (00:00:14) roam x 32
+\i (00:00:14) roam x 32
+\i (00:00:15) roam x 16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -16
+\i (00:00:15) roam end
+\i (00:00:16) roam start
+\i (00:00:16) roam x -16
+\i (00:00:16) roam x -48
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -64
+\i (00:00:17) roam x -64
+\i (00:00:17) roam x -80
+\i (00:00:17) roam x -80
+\i (00:00:17) roam x -64
+\i (00:00:17) roam x -64
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -16
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -48
+\i (00:00:17) roam x -32
+\i (00:00:17) roam x -32
+\i (00:00:18) roam x -32
+\i (00:00:18) roam end
+\i (00:00:18) pick grid -294.437 -76.525
+\t (00:00:18) last pick:  -300.000 -100.000
+\i (00:00:20) prepopup -294.437 -76.525
+\i (00:00:22) pop dyn_option_select '@:@Text edit' 
+\i (00:00:22) text edit 
+\i (00:00:24) setwindow form.textedit
+\i (00:00:24) FORM textedit str 1 
+\i (00:00:24) FORM textedit done  
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick 0.000 0.000
+\t (00:00:24) Pick text to edit.
+\i (00:00:24) setwindow pcb
+\i (00:00:24) generaledit 
+\i (00:00:26) prepopup -273.550 -73.653
+\i (00:00:27) pick grid dbl -273.550 -73.653
+\t (00:00:27) last pick:  -300.000 -100.000
+\i (00:00:27) prepopup -273.550 -73.653
+\i (00:00:30) pop dyn_option_select '@:@Text edit' 
+\i (00:00:30) text edit 
+\i (00:00:31) setwindow form.textedit
+\i (00:00:31) FORM textedit str 2 
+\i (00:00:31) FORM textedit done  
+\i (00:00:31) setwindow pcb
+\i (00:00:31) pick 0.000 0.000
+\t (00:00:31) Pick text to edit.
+\i (00:00:31) setwindow pcb
+\i (00:00:31) generaledit 
+\i (00:00:32) pick grid -250.575 -77.308
+\t (00:00:32) last pick:  -300.000 -100.000
+\i (00:00:32) prepopup -250.836 -75.742
+\i (00:00:33) pop dyn_option_select '@:@Text edit' 
+\i (00:00:33) text edit 
+\i (00:00:36) setwindow form.textedit
+\i (00:00:36) FORM textedit str 3 
+\i (00:00:36) FORM textedit done  
+\i (00:00:36) setwindow pcb
+\i (00:00:36) pick 0.000 0.000
+\t (00:00:36) Pick text to edit.
+\i (00:00:36) setwindow pcb
+\i (00:00:36) generaledit 
+\i (00:00:37) pick grid -236.477 -74.436
+\t (00:00:37) last pick:  -200.000 -100.000
+\i (00:00:37) prepopup -232.299 -74.959
+\i (00:00:39) pop dyn_option_select '@:@Text edit' 
+\i (00:00:39) text edit 
+\i (00:00:40) setwindow form.textedit
+\i (00:00:40) FORM textedit str 4 
+\i (00:00:40) FORM textedit done  
+\i (00:00:40) setwindow pcb
+\i (00:00:40) pick 0.000 0.000
+\t (00:00:40) Pick text to edit.
+\i (00:00:40) setwindow pcb
+\i (00:00:40) generaledit 
+\i (00:00:41) pick grid -212.979 -72.609
+\t (00:00:41) last pick:  -200.000 -100.000
+\i (00:00:41) prepopup -212.196 -73.914
+\i (00:00:42) pop dyn_option_select '@:@Text edit' 
+\i (00:00:42) text edit 
+\i (00:00:43) setwindow form.textedit
+\i (00:00:43) FORM textedit str 5 
+\i (00:00:43) FORM textedit done  
+\i (00:00:43) setwindow pcb
+\i (00:00:43) pick 0.000 0.000
+\t (00:00:43) Pick text to edit.
+\i (00:00:43) setwindow pcb
+\i (00:00:43) generaledit 
+\i (00:00:44) pick grid -188.699 -72.087
+\t (00:00:44) last pick:  -200.000 -100.000
+\i (00:00:44) prepopup -193.398 -73.653
+\i (00:00:47) pop dyn_option_select '@:@Text edit' 
+\i (00:00:47) text edit 
+\i (00:00:48) setwindow form.textedit
+\i (00:00:48) FORM textedit str 6 
+\i (00:00:48) FORM textedit done  
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick 0.000 0.000
+\t (00:00:48) Pick text to edit.
+\i (00:00:48) setwindow pcb
+\i (00:00:48) generaledit 
+\i (00:00:48) pick grid -168.073 -75.742
+\t (00:00:48) last pick:  -200.000 -100.000
+\i (00:00:48) prepopup -168.334 -75.481
+\i (00:00:50) pop dyn_option_select '@:@Text edit' 
+\i (00:00:50) text edit 
+\i (00:00:51) setwindow form.textedit
+\i (00:00:51) FORM textedit str 7 
+\i (00:00:52) FORM textedit done  
+\i (00:00:52) setwindow pcb
+\i (00:00:52) pick 0.000 0.000
+\t (00:00:52) Pick text to edit.
+\i (00:00:52) setwindow pcb
+\i (00:00:52) generaledit 
+\i (00:00:52) pick grid -146.403 -74.959
+\t (00:00:52) last pick:  -100.000 -100.000
+\i (00:00:52) prepopup -146.403 -74.698
+\i (00:00:53) pick grid -159.196 -74.698
+\t (00:00:53) last pick:  -200.000 -100.000
+\i (00:00:53) prepopup -154.758 -71.303
+\i (00:00:55) pop dyn_option_select '@:@Text edit' 
+\i (00:00:55) text edit 
+\i (00:00:57) setwindow form.textedit
+\i (00:00:57) FORM textedit str 8 
+\i (00:00:57) FORM textedit done  
+\i (00:00:57) setwindow pcb
+\i (00:00:57) pick 0.000 0.000
+\t (00:00:57) Pick text to edit.
+\i (00:00:57) setwindow pcb
+\i (00:00:57) generaledit 
+\i (00:00:58) roam start
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam x 16
+\i (00:00:58) roam end
+\i (00:00:59) pick grid -135.177 -74.698
+\t (00:00:59) last pick:  -100.000 -100.000
+\i (00:01:00) prepopup -134.133 -73.653
+\i (00:01:02) pop dyn_option_select '@:@Text edit' 
+\i (00:01:02) text edit 
+\i (00:01:05) setwindow form.textedit
+\i (00:01:05) FORM textedit str 9 
+\i (00:01:05) FORM textedit done  
+\i (00:01:05) setwindow pcb
+\i (00:01:05) pick 0.000 0.000
+\t (00:01:05) Pick text to edit.
+\i (00:01:05) setwindow pcb
+\i (00:01:05) generaledit 
+\i (00:01:05) pick grid -108.286 -76.786
+\t (00:01:05) last pick:  -100.000 -100.000
+\i (00:01:06) prepopup -112.463 -76.003
+\i (00:01:07) pop dyn_option_select '@:@Text edit' 
+\i (00:01:07) text edit 
+\i (00:01:10) setwindow form.textedit
+\i (00:01:10) FORM textedit str 10 
+\i (00:01:10) FORM textedit done  
+\i (00:01:10) setwindow pcb
+\i (00:01:10) pick 0.000 0.000
+\t (00:01:10) Pick text to edit.
+\i (00:01:10) setwindow pcb
+\i (00:01:10) generaledit 
+\i (00:01:11) pick grid -80.350 -76.525
+\t (00:01:11) last pick:  -100.000 -100.000
+\i (00:01:12) pick grid -85.833 -75.742
+\t (00:01:12) last pick:  -100.000 -100.000
+\i (00:01:12) pick grid -93.404 -74.959
+\t (00:01:12) last pick:  -100.000 -100.000
+\i (00:01:13) pick grid -97.059 -68.954
+\t (00:01:13) last pick:  -100.000 -100.000
+\i (00:01:13) pick grid -101.759 -71.565
+\t (00:01:13) last pick:  -100.000 -100.000
+\i (00:01:14) pick grid -82.178 -76.525
+\t (00:01:14) last pick:  -100.000 -100.000
+\i (00:01:14) pick grid -80.089 -80.702
+\t (00:01:14) last pick:  -100.000 -100.000
+\i (00:01:15) pick grid -93.404 -80.702
+\t (00:01:15) last pick:  -100.000 -100.000
+\i (00:01:16) prepopup -95.754 -79.919
+\i (00:01:21) pick grid -97.582 -71.565
+\t (00:01:21) last pick:  -100.000 -100.000
+\i (00:01:22) pick grid -96.537 -79.919
+\t (00:01:22) last pick:  -100.000 -100.000
+\i (00:01:23) pick grid -94.449 -81.225
+\t (00:01:23) last pick:  -100.000 -100.000
+\i (00:01:24) prepopup -93.665 -83.574
+\i (00:01:25) pick grid -84.005 -65.037
+\t (00:01:25) last pick:  -100.000 -100.000
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in -89.488 -80.963
+\i (00:01:25) trapsize 653
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in -91.577 -71.565
+\i (00:01:31) trapsize 326
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out -100.453 -81.159
+\i (00:01:33) trapsize 653
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out -100.845 -81.420
+\i (00:01:33) trapsize 1305
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in -79.959 -81.681
+\i (00:01:34) trapsize 653
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in -80.742 -81.550
+\i (00:01:34) trapsize 326
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in -81.525 -81.484
+\i (00:01:34) trapsize 163
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out -84.267 -81.615
+\i (00:01:35) trapsize 326
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out -85.050 -83.508
+\i (00:01:35) trapsize 653
+\i (00:01:36) roam start
+\i (00:01:36) roam x -16
+\i (00:01:36) roam y -16
+\i (00:01:36) roam x -16
+\i (00:01:36) roam x -16
+\i (00:01:36) roam x -16
+\i (00:01:36) roam y -16
+\i (00:01:36) roam x -16
+\i (00:01:37) roam x -16
+\i (00:01:37) roam x -16
+\i (00:01:37) roam x -16
+\i (00:01:37) roam end
+\i (00:01:40) pick grid -86.511 -85.553
+\t (00:01:40) last pick:  -100.000 -100.000
+\i (00:01:41) pick grid -94.996 -77.851
+\t (00:01:41) last pick:  -100.000 -100.000
+\i (00:01:42) pick grid -97.084 -77.329
+\t (00:01:42) last pick:  -100.000 -100.000
+\i (00:01:43) pick grid -95.518 -77.851
+\t (00:01:43) last pick:  -100.000 -100.000
+\i (00:01:44) prepopup -95.257 -78.504
+\i (00:01:52) pick grid -93.429 -64.406
+\t (00:01:52) last pick:  -100.000 -100.000
+\i (00:01:52) drag_start grid -106.092 -70.280
+\i (00:01:52) drag_stop -103.089 -74.196
+\i (00:01:56) pick grid tgl -102.045 -79.679
+\t (00:01:56) last pick:  -100.000 -100.000
+\i (00:01:57) prepopup -83.508 -74.196
+\i (00:01:58) pop dyn_option_select '@:@Text edit' 
+\i (00:01:58) text edit 
+\i (00:02:01) setwindow form.textedit
+\i (00:02:01) FORM textedit str 11 
+\i (00:02:01) FORM textedit done  
+\i (00:02:01) setwindow pcb
+\i (00:02:01) pick 0.000 0.000
+\t (00:02:01) Pick text to edit.
+\i (00:02:01) setwindow pcb
+\i (00:02:01) generaledit 
+\i (00:02:03) pick grid -62.622 -75.502
+\t (00:02:03) last pick:  -100.000 -100.000
+\i (00:02:04) pick grid -82.464 -75.502
+\t (00:02:04) last pick:  -100.000 -100.000
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out -109.094 -73.935
+\i (00:02:05) trapsize 1305
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out -111.966 -76.024
+\i (00:02:05) trapsize 2611
+\i (00:02:06) pick grid -296.811 -57.748
+\t (00:02:06) last pick:  -300.000 -100.000
+\i (00:02:07) drag_start grid -302.033 -60.881
+\i (00:02:08) drag_stop 300.540 -79.156
+\i (00:02:09) prepopup 269.732 -78.112
+\i (00:02:15) pop dyn_option_select '@:@Property edit' 
+\i (00:02:15) property edit 
+\i (00:02:18) setwindow form.editprop1
+\i (00:02:18) FORM editprop1 cancel  
+\i (00:02:18) setwindow pcb
+\i (00:02:18) generaledit 
+\i (00:02:18) prepopup 229.004 -80.201
+\i (00:02:23) pick grid 80.710 -204.475
+\t (00:02:23) last pick:  100.000 -200.000
+\i (00:02:24) pick grid -283.757 -70.802
+\t (00:02:24) last pick:  -300.000 -100.000
+\i (00:02:24) prepopup -284.280 -70.802
+\i (00:02:26) pop dyn_option_select '@:@Text edit' 
+\i (00:02:26) text edit 
+\i (00:02:27) setwindow form.textedit
+\i (00:02:27) FORM textedit cancel  
+\i (00:02:27) setwindow pcb
+\i (00:02:27) generaledit 
+\i (00:02:32) setwindow form.find
+\i (00:02:32) FORM find all_off  
+\i (00:02:33) FORM find text YES 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) drag_start grid -303.600 -65.580
+\i (00:02:36) drag_stop 296.884 -82.289
+\i (00:02:37) prepopup 273.909 -78.112
+\i (00:02:48) pick grid 150.680 -297.941
+\t (00:02:48) last pick:  200.000 -300.000
+\i (00:02:49) pick grid -264.438 -67.669
+\t (00:02:49) last pick:  -300.000 -100.000
+\i (00:02:49) pick grid -280.102 -73.413
+\t (00:02:49) last pick:  -300.000 -100.000
+\i (00:02:50) prepopup -281.147 -73.413
+\i (00:02:52) pick grid -263.915 -0.310
+\t (00:02:52) last pick:  -300.000 0.000
+\i (00:02:53) zoom in 1 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in -59.229 -81.767
+\i (00:02:53) trapsize 1305
+\i (00:02:54) roam start
+\i (00:02:54) roam x -16
+\i (00:02:54) roam x -32
+\i (00:02:54) roam x -32
+\i (00:02:54) roam x -16
+\i (00:02:54) roam x -16
+\i (00:02:54) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam y 16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -16
+\i (00:02:55) roam end
+\i (00:02:56) roam start
+\i (00:02:56) roam x -16
+\i (00:02:56) roam x -48
+\i (00:02:56) roam x -16
+\i (00:02:56) roam x -32
+\i (00:02:56) roam x -16
+\i (00:02:56) roam x -16
+\i (00:02:56) roam x -16
+\i (00:02:56) roam x -16
+\i (00:02:56) roam end
+\i (00:02:56) drag_start grid -305.948 -64.275
+\i (00:02:57) drag_stop -96.301 -77.851
+\i (00:02:58) prepopup -101.523 -76.807
+\i (00:03:00) pick grid -196.556 -63.231
+\t (00:03:00) last pick:  -200.000 -100.000
+\i (00:03:00) pick grid -269.397 -72.630
+\t (00:03:00) last pick:  -300.000 -100.000
+\i (00:03:01) pick grid tgl -282.712 -75.502
+\t (00:03:01) last pick:  -300.000 -100.000
+\i (00:03:01) prepopup -283.495 -75.502
+\i (00:03:04) pop dyn_option_select 'Change Text block to@:@1 (16.000,25.000)' 
+\i (00:03:04) text block 
+\w (00:03:05) WARNING(SPMHGE-554): Text already matches option panel settings.
+\i (00:03:05) generaledit 
+\i (00:03:06) undo 
+\i (00:03:06) trapsize 1305
+\i (00:03:06) generaledit 
+\i (00:03:08) prepopup -263.914 -74.718
+\i (00:03:10) pop dyn_option_select 'Change Text block to@:@2 (23.000,31.000)' 
+\i (00:03:10) text block 
+\t (00:03:10) No DRC errors detected.
+\t (00:03:10) Changed 2 items out of 2 items found.
+\i (00:03:10) generaledit 
+\i (00:03:11) undo 
+\i (00:03:11) trapsize 1305
+\i (00:03:11) generaledit 
+\i (00:03:12) prepopup -266.264 -74.718
+\i (00:03:19) pop dyn_option_select 'Change Text block to@:@17 (6.250,25.000) 17' 
+\i (00:03:19) text block 
+\t (00:03:19) No DRC errors detected.
+\t (00:03:19) Changed 2 items out of 2 items found.
+\i (00:03:19) generaledit 
+\i (00:03:20) undo 
+\i (00:03:20) trapsize 1305
+\i (00:03:20) generaledit 
+\i (00:03:20) prepopup -265.481 -77.068
+\i (00:03:26) pick grid -168.359 -151.476
+\t (00:03:26) last pick:  -200.000 -200.000
+\i (00:03:26) roam start
+\i (00:03:26) roam x 16
+\i (00:03:27) roam x 32
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 32
+\i (00:03:27) roam x 48
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 32
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 48
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 32
+\i (00:03:27) roam x 32
+\i (00:03:27) roam x 32
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam x -16
+\i (00:03:27) roam x -48
+\i (00:03:27) roam x -96
+\i (00:03:27) roam x -128
+\i (00:03:27) roam x -160
+\i (00:03:27) roam x -144
+\i (00:03:27) roam x -128
+\i (00:03:27) roam x -112
+\i (00:03:27) roam x -80
+\i (00:03:27) roam x -48
+\i (00:03:27) roam x -32
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 16
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 80
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 64
+\i (00:03:27) roam x 48
+\i (00:03:27) roam x 48
+\i (00:03:28) roam x 32
+\i (00:03:28) roam x 16
+\i (00:03:28) roam x 16
+\i (00:03:28) roam x 16
+\i (00:03:28) roam x 16
+\i (00:03:28) roam x 16
+\i (00:03:28) roam x 16
+\i (00:03:28) roam x 16
+\i (00:03:28) roam end
+\i (00:03:37) zoom in 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom in -53.485 -63.753
+\i (00:03:37) trapsize 653
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in -49.177 -64.666
+\i (00:03:38) trapsize 326
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out -67.192 -75.762
+\i (00:03:39) trapsize 653
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out -67.452 -76.676
+\i (00:03:39) trapsize 1305
+\i (00:03:39) pick grid -68.496 -91.557
+\t (00:03:39) last pick:  -100.000 -100.000
+\i (00:03:41) pick grid -96.693 -81.636
+\t (00:03:41) last pick:  -100.000 -100.000
+\i (00:03:42) pick grid -62.492 -85.552
+\t (00:03:42) last pick:  -100.000 -100.000
+\i (00:03:42) pick grid -71.629 -87.902
+\t (00:03:42) last pick:  -100.000 -100.000
+\i (00:03:43) pick grid -68.758 -97.040
+\t (00:03:43) last pick:  -100.000 -100.000
+\i (00:03:43) pick grid dbl -67.974 -97.823
+\t (00:03:43) last pick:  -100.000 -100.000
+\i (00:03:44) pick grid -67.974 -104.611
+\t (00:03:44) last pick:  -100.000 -100.000
+\i (00:03:44) pick grid dbl -68.235 -104.872
+\t (00:03:44) last pick:  -100.000 -100.000
+\i (00:03:44) pick grid -68.235 -104.872
+\t (00:03:44) last pick:  -100.000 -100.000
+\i (00:03:45) pick grid -73.979 -89.730
+\t (00:03:45) last pick:  -100.000 -100.000
+\i (00:03:58) zoom out 1 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) zoom out 28.886 -41.430
+\i (00:03:58) trapsize 2611
+\i (00:03:59) roam start
+\i (00:03:59) roam x 16
+\i (00:03:59) roam x 32
+\i (00:03:59) roam x 16
+\i (00:03:59) roam x 16
+\i (00:03:59) roam x 16
+\i (00:03:59) roam x 16
+\i (00:03:59) roam end
+\i (00:04:00) roam start
+\i (00:04:00) roam x 16
+\i (00:04:00) roam x 16
+\i (00:04:00) roam x 32
+\i (00:04:00) roam x 16
+\i (00:04:00) roam x 32
+\i (00:04:00) roam x 16
+\i (00:04:00) roam x 16
+\i (00:04:00) roam end
+\i (00:04:01) pick grid -36.249 -76.414
+\t (00:04:01) last pick:  0.000 -100.000
+\i (00:04:01) pick grid -54.524 -73.803
+\t (00:04:01) last pick:  -100.000 -100.000
+\i (00:04:02) pick grid 218.043 -57.616
+\t (00:04:02) last pick:  200.000 -100.000
+\i (00:04:03) drag_start grid 316.732 -58.139
+\i (00:04:04) drag_stop -292.629 -74.848
+\i (00:04:05) drag_start grid -264.433 -75.892
+\i (00:04:05) drag_stop grid -261.822 -28.375
+\i (00:04:06) drag_start grid -305.161 -63.360
+\i (00:04:07) drag_stop 310.466 -78.503
+\i (00:04:07) prepopup 265.560 -75.370
+\i (00:04:08) pop dyn_option_select @:@Move 
+\i (00:04:08) move 
+\t (00:04:08) last pick:  300.000 -100.000
+\t (00:04:08) Pick new location for the element(s).
+\i (00:04:10) pick grid 250.417 -36.208
+\t (00:04:10) last pick:  300.000 0.000
+\i (00:04:11) generaledit 
+\i (00:04:12) pick grid 247.284 -38.296
+\t (00:04:12) last pick:  200.000 0.000
+\i (00:04:12) pick grid 265.038 8.698
+\t (00:04:12) last pick:  300.000 0.000
+\i (00:04:14) pick grid 281.225 9.220
+\t (00:04:14) last pick:  300.000 0.000
+\i (00:04:14) pick grid dbl 281.225 9.220
+\t (00:04:14) last pick:  300.000 0.000
+\i (00:04:16) pick grid 143.897 10.787
+\t (00:04:16) last pick:  100.000 0.000
+\i (00:04:16) pick grid 94.291 10.787
+\t (00:04:16) last pick:  100.000 0.000
+\i (00:04:18) drag_start grid -97.341 -24.198
+\i (00:04:18) drag_stop 74.971 -13.755
+\i (00:04:19) drag_start grid 40.509 -18.454
+\i (00:04:19) drag_stop grid 38.942 -41.429
+\i (00:04:20) drag_start grid 72.883 -39.863
+\i (00:04:21) drag_stop -81.677 -4.878
+\i (00:04:21) prepopup -47.736 -13.755
+\i (00:04:22) pop dyn_option_select @:@Move 
+\i (00:04:22) move 
+\t (00:04:22) last pick:  0.000 0.000
+\t (00:04:22) Pick new location for the element(s).
+\i (00:04:27) pick grid -20.584 -150.039
+\t (00:04:27) last pick:  0.000 -200.000
+\i (00:04:27) generaledit 
+\i (00:04:28) pick grid -64.445 -150.039
+\t (00:04:28) last pick:  -100.000 -200.000
+\i (00:04:28) prepopup -64.445 -150.039
+\i (00:04:29) pick grid -88.465 -132.807
+\t (00:04:29) last pick:  -100.000 -100.000
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in -33.116 -30.464
+\i (00:04:29) trapsize 1305
+\i (00:04:30) roam start
+\i (00:04:30) roam y -16
+\i (00:04:30) roam y -16
+\i (00:04:30) roam y -16
+\i (00:04:30) roam y -16
+\i (00:04:30) roam y -16
+\i (00:04:30) roam x -16
+\i (00:04:30) roam y -16
+\i (00:04:30) roam x -16
+\i (00:04:30) roam x -16
+\i (00:04:30) roam x -16
+\i (00:04:30) roam x -16
+\i (00:04:30) roam y -16
+\i (00:04:30) roam x -16
+\i (00:04:30) roam x -32
+\i (00:04:30) roam x -16
+\i (00:04:30) roam y -16
+\i (00:04:30) roam x -16
+\i (00:04:30) roam x -16
+\i (00:04:31) roam x -16
+\i (00:04:31) roam x -16
+\i (00:04:31) roam x -16
+\i (00:04:31) roam y -16
+\i (00:04:31) roam x -16
+\i (00:04:31) roam x -16
+\i (00:04:31) roam end
+\i (00:04:32) pick grid -113.011 11.437
+\t (00:04:32) last pick:  -100.000 0.000
+\i (00:04:33) pick grid -127.892 11.437
+\t (00:04:33) last pick:  -100.000 0.000
+\i (00:04:34) pick grid -116.405 11.437
+\t (00:04:34) last pick:  -100.000 0.000
+\i (00:04:35) pick grid -80.376 8.826
+\t (00:04:35) last pick:  -100.000 0.000
+\i (00:04:36) pick grid -98.912 5.693
+\t (00:04:36) last pick:  -100.000 0.000
+\i (00:04:36) pick grid -99.695 -0.050
+\t (00:04:36) last pick:  -100.000 0.000
+\i (00:04:37) pick grid -103.090 5.693
+\t (00:04:37) last pick:  -100.000 0.000
+\i (00:04:37) pick grid -85.336 15.092
+\t (00:04:37) last pick:  -100.000 0.000
+\i (00:04:39) prepopup -62.100 16.398
+\i (00:04:40) pop dyn_option_select '@:@Text edit' 
+\i (00:04:40) text edit 
+\i (00:04:43) setwindow form.textedit
+\i (00:04:43) FORM textedit str 12 
+\i (00:04:43) FORM textedit done  
+\i (00:04:43) setwindow pcb
+\i (00:04:43) pick 0.000 0.000
+\t (00:04:43) Pick text to edit.
+\i (00:04:43) setwindow pcb
+\i (00:04:43) generaledit 
+\i (00:04:43) pick grid -41.997 9.087
+\t (00:04:43) last pick:  0.000 0.000
+\i (00:04:46) zoom in 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom in -39.125 -3.967
+\i (00:04:46) trapsize 653
+\i (00:04:47) prepopup -40.300 11.176
+\i (00:04:49) pop dyn_option_select '@:@Text edit' 
+\i (00:04:49) text edit 
+\i (00:04:50) setwindow form.textedit
+\i (00:04:50) FORM textedit str 13 
+\i (00:04:50) FORM textedit done  
+\i (00:04:50) setwindow pcb
+\i (00:04:50) pick 0.000 0.000
+\t (00:04:50) Pick text to edit.
+\i (00:04:50) setwindow pcb
+\i (00:04:50) generaledit 
+\i (00:04:51) pick grid -19.936 13.787
+\t (00:04:51) last pick:  0.000 0.000
+\i (00:04:51) prepopup -19.936 13.787
+\i (00:04:52) pop dyn_option_select '@:@Text edit' 
+\i (00:04:52) text edit 
+\i (00:04:53) setwindow form.textedit
+\i (00:04:53) FORM textedit str 14 
+\i (00:04:54) FORM textedit done  
+\i (00:04:54) setwindow pcb
+\i (00:04:54) pick 0.000 0.000
+\t (00:04:54) Pick text to edit.
+\i (00:04:54) setwindow pcb
+\i (00:04:54) generaledit 
+\i (00:04:54) roam start
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam x 16
+\i (00:04:54) roam end
+\i (00:04:55) pick grid -3.096 16.528
+\t (00:04:55) last pick:  0.000 0.000
+\i (00:04:56) prepopup -1.399 16.267
+\i (00:04:57) pop dyn_option_select '@:@Text edit' 
+\i (00:04:57) text edit 
+\i (00:04:59) setwindow form.textedit
+\i (00:04:59) FORM textedit str 15 
+\i (00:04:59) FORM textedit done  
+\i (00:04:59) setwindow pcb
+\i (00:04:59) pick 0.000 0.000
+\t (00:04:59) Pick text to edit.
+\i (00:04:59) setwindow pcb
+\i (00:04:59) generaledit 
+\i (00:05:00) roam start
+\i (00:05:00) roam x 16
+\i (00:05:00) roam x 16
+\i (00:05:00) roam x 16
+\i (00:05:00) roam x 16
+\i (00:05:00) roam x 16
+\i (00:05:00) roam x 16
+\i (00:05:00) roam end
+\i (00:05:01) pick grid 22.359 11.568
+\t (00:05:01) last pick:  0.000 0.000
+\i (00:05:01) prepopup 25.753 12.482
+\i (00:05:04) pick grid -9.623 11.960
+\t (00:05:04) last pick:  0.000 0.000
+\i (00:05:04) pick grid -21.894 14.701
+\t (00:05:04) last pick:  0.000 0.000
+\i (00:05:05) pick grid 20.923 15.354
+\t (00:05:05) last pick:  0.000 0.000
+\i (00:05:06) prepopup 20.923 15.354
+\i (00:05:08) pop dyn_option_select '@:@Text edit' 
+\i (00:05:08) text edit 
+\i (00:05:12) setwindow form.textedit
+\i (00:05:12) FORM textedit str 16 
+\i (00:05:12) FORM textedit done  
+\i (00:05:12) setwindow pcb
+\i (00:05:12) pick 0.000 0.000
+\t (00:05:12) Pick text to edit.
+\i (00:05:12) setwindow pcb
+\i (00:05:12) generaledit 
+\i (00:05:13) roam start
+\i (00:05:13) roam x 16
+\i (00:05:13) roam x 16
+\i (00:05:13) roam x 16
+\i (00:05:13) roam x 16
+\i (00:05:13) roam end
+\i (00:05:14) pick grid 37.502 17.051
+\t (00:05:14) last pick:  0.000 0.000
+\i (00:05:14) prepopup 40.766 16.920
+\i (00:05:15) pop dyn_option_select '@:@Text edit' 
+\i (00:05:15) text edit 
+\i (00:05:17) setwindow form.textedit
+\i (00:05:17) FORM textedit str 17 
+\i (00:05:17) FORM textedit done  
+\i (00:05:17) setwindow pcb
+\i (00:05:17) pick 0.000 0.000
+\t (00:05:17) Pick text to edit.
+\i (00:05:17) setwindow pcb
+\i (00:05:17) generaledit 
+\i (00:05:17) roam start
+\i (00:05:17) roam x 16
+\i (00:05:17) roam x 16
+\i (00:05:17) roam x 16
+\i (00:05:17) roam x 16
+\i (00:05:17) roam x 16
+\i (00:05:17) roam x 16
+\i (00:05:18) roam x 16
+\i (00:05:18) roam end
+\i (00:05:18) pick grid 47.031 11.568
+\t (00:05:18) last pick:  0.000 0.000
+\i (00:05:18) pick grid 51.992 12.612
+\t (00:05:18) last pick:  100.000 0.000
+\i (00:05:19) prepopup 53.689 12.873
+\i (00:05:20) pop dyn_option_select '@:@Text edit' 
+\i (00:05:20) text edit 
+\i (00:05:23) setwindow form.textedit
+\i (00:05:23) FORM textedit str 18 
+\i (00:05:24) FORM textedit done  
+\i (00:05:24) setwindow pcb
+\i (00:05:24) pick 0.000 0.000
+\t (00:05:24) Pick text to edit.
+\i (00:05:24) setwindow pcb
+\i (00:05:24) generaledit 
+\i (00:05:24) roam start
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam y -16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam x 16
+\i (00:05:24) roam end
+\i (00:05:25) pick grid 67.134 8.435
+\t (00:05:25) last pick:  100.000 0.000
+\i (00:05:25) pick grid 73.139 10.001
+\t (00:05:25) last pick:  100.000 0.000
+\i (00:05:25) prepopup 73.270 10.524
+\i (00:05:27) pop dyn_option_select '@:@Text edit' 
+\i (00:05:27) text edit 
+\i (00:05:30) setwindow form.textedit
+\i (00:05:30) FORM textedit str 19 
+\i (00:05:30) FORM textedit done  
+\i (00:05:30) setwindow pcb
+\i (00:05:30) pick 0.000 0.000
+\t (00:05:30) Pick text to edit.
+\i (00:05:30) setwindow pcb
+\i (00:05:30) generaledit 
+\i (00:05:31) roam start
+\i (00:05:31) roam x 16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam x 16
+\i (00:05:31) roam y -16
+\i (00:05:31) roam end
+\i (00:05:31) pick grid 92.982 8.826
+\t (00:05:31) last pick:  100.000 0.000
+\i (00:05:33) pick grid 85.671 8.304
+\t (00:05:33) last pick:  100.000 0.000
+\i (00:05:33) pick grid 98.986 10.915
+\t (00:05:33) last pick:  100.000 0.000
+\i (00:05:35) pick grid 78.231 11.437
+\t (00:05:35) last pick:  100.000 0.000
+\i (00:05:37) pick grid 36.327 12.873
+\t (00:05:37) last pick:  0.000 0.000
+\i (00:05:37) pick grid 30.322 13.004
+\t (00:05:37) last pick:  0.000 0.000
+\i (00:05:38) pick grid 26.537 13.004
+\t (00:05:38) last pick:  0.000 0.000
+\i (00:05:38) pick grid 52.775 13.004
+\t (00:05:38) last pick:  100.000 0.000
+\i (00:05:39) pick grid 47.162 13.134
+\t (00:05:39) last pick:  0.000 0.000
+\i (00:05:40) pick grid 68.179 13.134
+\t (00:05:40) last pick:  100.000 0.000
+\i (00:05:40) pick grid 64.785 14.048
+\t (00:05:40) last pick:  100.000 0.000
+\i (00:05:41) pick grid 69.484 16.528
+\t (00:05:41) last pick:  100.000 0.000
+\i (00:05:42) pick grid 91.937 17.050
+\t (00:05:42) last pick:  100.000 0.000
+\i (00:05:43) pick grid 78.100 14.178
+\t (00:05:43) last pick:  100.000 0.000
+\i (00:05:43) pick grid 76.534 10.915
+\t (00:05:43) last pick:  100.000 0.000
+\i (00:05:43) pick grid 77.447 10.523
+\t (00:05:43) last pick:  100.000 0.000
+\i (00:05:44) pick grid 103.164 9.609
+\t (00:05:44) last pick:  100.000 0.000
+\i (00:05:44) pick grid 94.026 9.479
+\t (00:05:44) last pick:  100.000 0.000
+\i (00:05:45) pick grid 89.588 9.609
+\t (00:05:45) last pick:  100.000 0.000
+\i (00:05:45) pick grid 87.629 9.740
+\t (00:05:45) last pick:  100.000 0.000
+\i (00:05:46) pick grid 79.405 9.348
+\t (00:05:46) last pick:  100.000 0.000
+\i (00:05:46) pick grid 76.925 2.038
+\t (00:05:46) last pick:  100.000 0.000
+\i (00:05:47) pick grid 74.053 3.605
+\t (00:05:47) last pick:  100.000 0.000
+\i (00:05:47) pick grid 75.881 3.735
+\t (00:05:47) last pick:  100.000 0.000
+\i (00:05:47) pick grid 91.154 9.218
+\t (00:05:47) last pick:  100.000 0.000
+\i (00:05:48) prepopup 112.432 16.267
+\i (00:05:49) pop dyn_option_select @:@Move 
+\i (00:05:49) move 
+\t (00:05:49) last pick:  100.000 0.000
+\t (00:05:49) last pick:  108.268 3.500
+\t (00:05:49) Pick new location for the element(s).
+\i (00:05:51) pick grid 112.432 16.267
+\t (00:05:51) last pick:  100.000 0.000
+\i (00:05:51) generaledit 
+\i (00:05:51) prepopup 110.866 7.521
+\i (00:05:52) pop dyn_option_select @:@Move 
+\i (00:05:52) move 
+\t (00:05:52) last pick:  100.000 0.000
+\t (00:05:52) last pick:  100.000 0.000
+\t (00:05:52) Pick new location for the element(s).
+\i (00:05:53) pick grid 110.866 7.521
+\t (00:05:53) last pick:  100.000 0.000
+\i (00:05:53) generaledit 
+\i (00:05:54) prepopup 108.777 15.875
+\i (00:05:54) pick grid 119.351 25.274
+\t (00:05:54) last pick:  100.000 0.000
+\i (00:05:55) prepopup 109.821 18.095
+\i (00:05:55) pop dyn_option_select @:@Move 
+\i (00:05:55) move 
+\t (00:05:55) last pick:  100.000 0.000
+\t (00:05:55) last pick:  100.000 0.000
+\t (00:05:55) Pick new location for the element(s).
+\i (00:05:56) zoom out 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom out 137.365 -41.040
+\i (00:05:56) trapsize 1305
+\i (00:05:56) zoom out 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom out 136.582 -39.735
+\i (00:05:56) trapsize 2611
+\i (00:05:56) zoom out 1 
+\i (00:05:56) setwindow pcb
+\i (00:05:56) zoom out 130.838 -33.468
+\i (00:05:56) trapsize 5222
+\i (00:05:58) prepopup 104.730 -7.360
+\i (00:05:58) cancel 
+\i (00:05:58) generaledit 
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 119.350 9.349
+\i (00:05:59) trapsize 2611
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 118.306 8.305
+\i (00:05:59) trapsize 1305
+\i (00:06:00) undo 
+\i (00:06:00) trapsize 653
+\i (00:06:00) generaledit 
+\i (00:06:00) undo 
+\i (00:06:00) trapsize 653
+\i (00:06:00) generaledit 
+\i (00:06:01) undo 
+\i (00:06:01) trapsize 653
+\i (00:06:01) generaledit 
+\i (00:06:02) pick grid 76.664 21.750
+\t (00:06:02) last pick:  100.000 0.000
+\i (00:06:03) pick grid 47.293 20.705
+\t (00:06:03) last pick:  0.000 0.000
+\i (00:06:04) pick grid 28.887 23.708
+\t (00:06:04) last pick:  0.000 0.000
+\i (00:06:05) pick grid 50.034 20.705
+\t (00:06:05) last pick:  100.000 0.000
+\i (00:06:06) pick grid 69.746 19.139
+\t (00:06:06) last pick:  100.000 0.000
+\i (00:06:06) pick grid 47.945 18.356
+\t (00:06:06) last pick:  0.000 0.000
+\i (00:06:07) pick grid 73.009 18.356
+\t (00:06:07) last pick:  100.000 0.000
+\i (00:06:07) pick grid 66.090 18.356
+\t (00:06:07) last pick:  100.000 0.000
+\i (00:06:08) pick grid 78.753 17.442
+\t (00:06:08) last pick:  100.000 0.000
+\i (00:06:09) pick grid 84.235 18.486
+\t (00:06:09) last pick:  100.000 0.000
+\i (00:06:09) pick grid 86.063 18.878
+\t (00:06:09) last pick:  100.000 0.000
+\i (00:06:09) pick grid 88.021 20.444
+\t (00:06:09) last pick:  100.000 0.000
+\i (00:06:10) pick grid 91.154 23.969
+\t (00:06:10) last pick:  100.000 0.000
+\i (00:06:12) pick grid 87.891 28.668
+\t (00:06:12) last pick:  100.000 0.000
+\i (00:06:12) pick grid 77.839 4.649
+\t (00:06:12) last pick:  100.000 0.000
+\i (00:06:13) pick grid 75.359 3.082
+\t (00:06:13) last pick:  100.000 0.000
+\i (00:06:13) pick grid 96.115 2.821
+\t (00:06:13) last pick:  100.000 0.000
+\i (00:06:14) pick grid 95.331 1.385
+\t (00:06:14) last pick:  100.000 0.000
+\i (00:06:15) pick grid 95.201 3.735
+\t (00:06:15) last pick:  100.000 0.000
+\i (00:06:15) pick grid 93.634 3.474
+\t (00:06:15) last pick:  100.000 0.000
+\i (00:06:16) pick grid 71.312 2.430
+\t (00:06:16) last pick:  100.000 0.000
+\i (00:06:16) pick grid 75.098 3.474
+\t (00:06:16) last pick:  100.000 0.000
+\i (00:06:17) prepopup 77.839 7.390
+\i (00:06:33) define grid 
+\t (00:06:33) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:06:36) setwindow form.grid
+\i (00:06:36) FORM grid non_etch non_etch_x_grids 1 
+\i (00:06:39) FORM grid non_etch non_etch_y_grids 1 
+\i (00:06:56) FORM grid top subclass_x_grids 0.100 
+\i (00:06:56) FORM grid non_etch non_etch_x_grids 0.100 
+\i (00:06:59) FORM grid non_etch non_etch_y_grids 0.100 
+\i (00:06:59) FORM grid apply  
+\i (00:07:00) FORM grid done  
+\i (00:07:01) setwindow pcb
+\i (00:07:01) prepopup 81.494 11.306
+\i (00:07:02) pop dyn_option_select @:@Move 
+\i (00:07:03) move 
+\t (00:07:03) last pick:  81.500 11.300
+\t (00:07:03) last pick:  68.898 3.500
+\t (00:07:03) Pick new location for the element(s).
+\i (00:07:05) pick grid 76.534 -37.515
+\t (00:07:05) last pick:  76.500 -37.500
+\i (00:07:05) generaledit 
+\i (00:07:06) pick grid 76.925 -8.274
+\t (00:07:06) last pick:  76.900 -8.300
+\i (00:07:07) pick grid 61.783 11.959
+\t (00:07:07) last pick:  61.800 12.000
+\i (00:07:08) pick grid 76.795 -23.417
+\t (00:07:08) last pick:  76.800 -23.400
+\i (00:07:08) pick grid 78.492 7.782
+\t (00:07:08) last pick:  78.500 7.800
+\i (00:07:08) pick grid dbl 78.492 7.782
+\t (00:07:08) last pick:  78.500 7.800
+\i (00:07:09) prepopup 78.492 7.782
+\i (00:07:10) pop dyn_option_select '@:@Text edit' 
+\i (00:07:10) text edit 
+\i (00:07:13) setwindow form.textedit
+\i (00:07:13) FORM textedit str 20 
+\i (00:07:13) FORM textedit done  
+\i (00:07:13) setwindow pcb
+\i (00:07:13) pick 0.000 0.000
+\t (00:07:13) Pick text to edit.
+\i (00:07:13) setwindow pcb
+\i (00:07:13) generaledit 
+\i (00:07:13) pick grid 81.886 -23.939
+\t (00:07:13) last pick:  81.900 -23.900
+\i (00:07:13) prepopup 84.366 -23.417
+\i (00:07:14) pop dyn_option_select @:@Move 
+\i (00:07:14) move 
+\t (00:07:15) last pick:  84.400 -23.400
+\t (00:07:15) last pick:  76.500 -37.500
+\t (00:07:15) Pick new location for the element(s).
+\i (00:07:25) pick grid 71.051 3.605
+\t (00:07:25) last pick:  71.100 3.600
+\i (00:07:25) generaledit 
+\i (00:07:25) pick grid 89.196 -6.186
+\t (00:07:25) last pick:  89.200 -6.200
+\i (00:07:28) pick grid 94.940 2.952
+\t (00:07:28) last pick:  94.900 3.000
+\i (00:07:29) pick grid 111.127 3.605
+\t (00:07:29) last pick:  111.100 3.600
+\i (00:07:30) pick grid 117.654 5.954
+\t (00:07:30) last pick:  117.700 6.000
+\i (00:07:30) prepopup 117.654 5.954
+\i (00:07:31) pop dyn_option_select '@:@Text edit' 
+\i (00:07:31) text edit 
+\i (00:07:32) setwindow form.textedit
+\i (00:07:32) FORM textedit str 21 
+\i (00:07:32) FORM textedit done  
+\i (00:07:32) setwindow pcb
+\i (00:07:32) pick 0.000 0.000
+\t (00:07:32) Pick text to edit.
+\i (00:07:32) setwindow pcb
+\i (00:07:32) generaledit 
+\i (00:07:32) roam start
+\i (00:07:32) roam x 16
+\i (00:07:32) roam x 16
+\i (00:07:32) roam x 16
+\i (00:07:32) roam x 16
+\i (00:07:32) roam x 16
+\i (00:07:32) roam x 16
+\i (00:07:33) roam x 16
+\i (00:07:33) roam end
+\i (00:07:33) pick grid 127.052 10.132
+\t (00:07:33) last pick:  127.100 10.100
+\i (00:07:33) pick grid 131.099 10.915
+\t (00:07:33) last pick:  131.100 10.900
+\i (00:07:34) prepopup 132.404 10.915
+\i (00:07:35) pop dyn_option_select '@:@Text edit' 
+\i (00:07:35) text edit 
+\i (00:07:37) setwindow form.textedit
+\i (00:07:37) FORM textedit str 22 
+\i (00:07:37) FORM textedit done  
+\i (00:07:37) setwindow pcb
+\i (00:07:37) pick 0.000 0.000
+\t (00:07:37) Pick text to edit.
+\i (00:07:37) setwindow pcb
+\i (00:07:37) generaledit 
+\i (00:07:37) roam start
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 32
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 64
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:38) roam end
+\i (00:07:38) pick grid 153.291 10.915
+\t (00:07:38) last pick:  153.300 10.900
+\i (00:07:38) prepopup 153.161 10.915
+\i (00:07:40) pop dyn_option_select '@:@Text edit' 
+\i (00:07:40) text edit 
+\i (00:07:42) setwindow form.textedit
+\i (00:07:42) FORM textedit str 23 
+\i (00:07:42) FORM textedit done  
+\i (00:07:42) setwindow pcb
+\i (00:07:42) pick 0.000 0.000
+\t (00:07:42) Pick text to edit.
+\i (00:07:42) setwindow pcb
+\i (00:07:42) generaledit 
+\i (00:07:43) pick grid 166.998 3.996
+\t (00:07:43) last pick:  167.000 4.000
+\i (00:07:43) pick grid 168.825 7.782
+\t (00:07:43) last pick:  168.800 7.800
+\i (00:07:43) prepopup 168.695 9.218
+\i (00:07:44) pop dyn_option_select '@:@Text edit' 
+\i (00:07:44) text edit 
+\i (00:07:46) setwindow form.textedit
+\i (00:07:46) FORM textedit str 24 
+\i (00:07:46) FORM textedit done  
+\i (00:07:46) setwindow pcb
+\i (00:07:46) pick 0.000 0.000
+\t (00:07:46) Pick text to edit.
+\i (00:07:46) setwindow pcb
+\i (00:07:46) generaledit 
+\i (00:07:47) roam start
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 32
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 16
+\i (00:07:47) roam x 16
+\i (00:07:47) roam end
+\i (00:07:47) pick grid 187.623 10.001
+\t (00:07:47) last pick:  187.600 10.000
+\i (00:07:48) prepopup 192.975 10.001
+\i (00:07:49) pop dyn_option_select '@:@Text edit' 
+\i (00:07:49) text edit 
+\i (00:07:50) setwindow form.textedit
+\i (00:07:50) FORM textedit str 25 
+\i (00:07:51) FORM textedit done  
+\i (00:07:51) setwindow pcb
+\i (00:07:51) pick 0.000 0.000
+\t (00:07:51) Pick text to edit.
+\i (00:07:51) setwindow pcb
+\i (00:07:51) generaledit 
+\i (00:07:51) pick grid 201.591 -11.407
+\t (00:07:51) last pick:  201.600 -11.400
+\i (00:07:51) zoom in 1 
+\i (00:07:51) setwindow pcb
+\i (00:07:51) zoom in 209.815 -10.885
+\i (00:07:51) trapsize 326
+\i (00:07:51) roam start
+\i (00:07:51) roam x 16
+\i (00:07:51) roam x 128
+\i (00:07:51) roam x 16
+\i (00:07:51) roam x 16
+\i (00:07:51) roam x 16
+\i (00:07:51) roam x 32
+\i (00:07:51) roam x 16
+\i (00:07:51) roam end
+\i (00:07:52) zoom out 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom out 220.174 -6.708
+\i (00:07:52) trapsize 653
+\i (00:07:52) zoom out 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom out 219.521 -6.186
+\i (00:07:52) trapsize 1305
+\i (00:07:52) zoom in 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom in 211.689 0.603
+\i (00:07:52) trapsize 653
+\i (00:07:52) zoom in 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom in 209.339 1.909
+\i (00:07:52) trapsize 326
+\i (00:07:53) zoom out 1 
+\i (00:07:53) setwindow pcb
+\i (00:07:53) zoom out 206.794 5.760
+\i (00:07:53) trapsize 653
+\i (00:07:53) roam start
+\i (00:07:53) roam y -16
+\i (00:07:53) roam x 48
+\i (00:07:53) roam y -128
+\i (00:07:53) roam x 16
+\i (00:07:53) roam y -32
+\i (00:07:53) roam y -16
+\i (00:07:53) roam end
+\i (00:07:54) pick grid 210.990 11.829
+\t (00:07:54) last pick:  211.000 11.800
+\i (00:07:54) prepopup 212.295 13.918
+\i (00:07:55) pop dyn_option_select '@:@Text edit' 
+\i (00:07:55) text edit 
+\i (00:07:56) setwindow form.textedit
+\i (00:07:56) FORM textedit str 26 
+\i (00:07:56) FORM textedit done  
+\i (00:07:56) setwindow pcb
+\i (00:07:56) pick 0.000 0.000
+\t (00:07:56) Pick text to edit.
+\i (00:07:56) setwindow pcb
+\i (00:07:56) generaledit 
+\i (00:07:57) pick grid 226.916 6.608
+\t (00:07:57) last pick:  226.900 6.600
+\i (00:07:57) prepopup 229.135 8.566
+\i (00:07:58) pop dyn_option_select '@:@Text edit' 
+\i (00:07:58) text edit 
+\i (00:08:00) setwindow form.textedit
+\i (00:08:00) FORM textedit str 27 
+\i (00:08:00) FORM textedit done  
+\i (00:08:00) setwindow pcb
+\i (00:08:00) pick 0.000 0.000
+\t (00:08:00) Pick text to edit.
+\i (00:08:00) setwindow pcb
+\i (00:08:00) generaledit 
+\i (00:08:01) roam start
+\i (00:08:01) roam x 16
+\i (00:08:01) roam x 16
+\i (00:08:01) roam x 16
+\i (00:08:01) roam x 16
+\i (00:08:01) roam y 16
+\i (00:08:01) roam x 16
+\i (00:08:01) roam x 16
+\i (00:08:01) roam x 16
+\i (00:08:01) roam end
+\i (00:08:01) pick grid 245.060 8.174
+\t (00:08:01) last pick:  245.100 8.200
+\i (00:08:02) pick grid 249.890 8.435
+\t (00:08:02) last pick:  249.900 8.400
+\i (00:08:02) prepopup 249.890 8.435
+\i (00:08:03) pop dyn_option_select '@:@Text edit' 
+\i (00:08:03) text edit 
+\i (00:08:07) setwindow form.textedit
+\i (00:08:07) FORM textedit str 28 
+\i (00:08:07) FORM textedit done  
+\i (00:08:07) setwindow pcb
+\i (00:08:07) pick 0.000 0.000
+\t (00:08:07) Pick text to edit.
+\i (00:08:07) setwindow pcb
+\i (00:08:07) generaledit 
+\i (00:08:08) pick grid 215.689 8.957
+\t (00:08:08) last pick:  215.700 9.000
+\i (00:08:09) pick grid 249.368 13.134
+\t (00:08:09) last pick:  249.400 13.100
+\i (00:08:10) pick grid 269.732 13.787
+\t (00:08:10) last pick:  269.700 13.800
+\i (00:08:10) prepopup 269.079 13.787
+\i (00:08:11) pop dyn_option_select '@:@Text edit' 
+\i (00:08:11) text edit 
+\i (00:08:12) setwindow form.textedit
+\i (00:08:12) FORM textedit str 29 
+\i (00:08:12) FORM textedit done  
+\i (00:08:12) setwindow pcb
+\i (00:08:12) pick 0.000 0.000
+\t (00:08:12) Pick text to edit.
+\i (00:08:12) setwindow pcb
+\i (00:08:12) generaledit 
+\i (00:08:13) pick grid 287.094 14.831
+\t (00:08:13) last pick:  287.100 14.800
+\i (00:08:13) prepopup 287.224 14.831
+\i (00:08:14) pop dyn_option_select '@:@Text edit' 
+\i (00:08:14) text edit 
+\i (00:08:18) setwindow form.textedit
+\i (00:08:18) FORM textedit str 30 
+\i (00:08:18) FORM textedit done  
+\i (00:08:18) setwindow pcb
+\i (00:08:18) pick 0.000 0.000
+\t (00:08:18) Pick text to edit.
+\i (00:08:18) setwindow pcb
+\i (00:08:18) generaledit 
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 257.984 6.738
+\i (00:08:19) trapsize 1305
+\i (00:08:19) zoom out 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom out 239.708 8.043
+\i (00:08:19) trapsize 2611
+\i (00:08:20) roam start
+\i (00:08:20) roam x -32
+\i (00:08:20) roam x -64
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -64
+\i (00:08:20) roam x -80
+\i (00:08:20) roam x -96
+\i (00:08:20) roam x -96
+\i (00:08:20) roam x -64
+\i (00:08:20) roam x -64
+\i (00:08:20) roam x -32
+\i (00:08:20) roam x -32
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x -16
+\i (00:08:20) roam x 16
+\i (00:08:20) roam x 16
+\i (00:08:20) roam x 16
+\i (00:08:20) roam x 16
+\i (00:08:20) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 32
+\i (00:08:21) roam x 32
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 32
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 32
+\i (00:08:21) roam x 32
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 32
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:21) roam x 16
+\i (00:08:22) roam end
+\i (00:08:33) pick grid 304.200 36.763
+\t (00:08:33) last pick:  304.200 36.800
+\i (00:08:33) drag_start grid 309.943 39.374
+\i (00:08:34) drag_stop -282.186 -0.310
+\i (00:08:35) prepopup -243.546 8.044
+\i (00:08:36) pop dyn_option_select @:@Move 
+\i (00:08:36) move 
+\t (00:08:36) last pick:  -243.500 8.000
+\t (00:08:36) Pick new location for the element(s).
+\i (00:08:41) pick grid -244.068 -88.555
+\t (00:08:41) last pick:  -244.100 -88.600
+\i (00:08:41) generaledit 
+\i (00:08:42) pick grid -166.267 -139.205
+\t (00:08:42) last pick:  -166.300 -139.200
+\i (00:08:42) zoom out 1 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom out -155.301 -131.895
+\i (00:08:42) trapsize 5222
+\i (00:08:43) zoom in 1 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom in 71.315 -172.623
+\i (00:08:43) trapsize 2611
+\i (00:08:44) drag_start grid 95.857 -213.351
+\i (00:08:44) drag_stop -115.096 -166.357
+\i (00:08:44) prepopup -28.417 -187.243
+\i (00:08:45) pop dyn_option_select @:@Move 
+\i (00:08:45) move 
+\t (00:08:45) last pick:  -28.400 -187.200
+\t (00:08:45) Pick new location for the element(s).
+\i (00:08:48) pick grid -22.673 8.567
+\t (00:08:48) last pick:  -22.700 8.600
+\i (00:08:48) generaledit 
+\i (00:08:49) pick grid 146.507 -21.197
+\t (00:08:49) last pick:  146.500 -21.200
+\i (00:08:51) save 
+\i (00:08:52) fillin yes 
+\t (00:08:52) Symbol 'con30_1x30_drb_xf2c_tyc.psm' created.
+\i (00:08:52) generaledit 
+\i (00:08:54) roam start
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -32
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -16
+\i (00:08:54) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x -16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:55) roam x 16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -32
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam x -16
+\i (00:08:56) roam end
+\i (00:08:58) roam start
+\i (00:08:58) roam x 16
+\i (00:08:58) roam x 16
+\i (00:08:58) roam x 16
+\i (00:08:58) roam x 16
+\i (00:08:58) roam x 16
+\i (00:08:58) roam x 16
+\i (00:08:58) roam y 16
+\i (00:08:58) roam x 16
+\i (00:08:59) roam x 16
+\i (00:08:59) roam x 16
+\i (00:08:59) roam y 16
+\i (00:08:59) roam x 16
+\i (00:08:59) roam x 16
+\i (00:08:59) roam y 16
+\i (00:08:59) roam end
+\i (00:09:19) exit 
+\t (00:09:19)     Journal end - Mon Aug  7 14:17:50 2023

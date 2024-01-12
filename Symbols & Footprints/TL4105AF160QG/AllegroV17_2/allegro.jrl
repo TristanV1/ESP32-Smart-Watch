@@ -1,0 +1,79 @@
+\t (00:00:03) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Aug  7 19:31:39 2023
+\t (00:00:03)         Host=DESKTOP-AQ1B764 User=12289 Pid=18540 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 116667
+\i (00:00:06) replay builder.scr.txt 
+\i (00:00:06) skill 'load "C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2/builder.ile" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'changeWorkingDir "C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2" ' 
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2/TL4105AF160QG_EWI.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 833
+\i (00:00:06) trapsize 856
+\i (00:00:06) trapsize 833
+\i (00:00:06) trapsize 974
+\i (00:00:06) trapsize 974
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (12 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 83267
+\i (00:00:06) trapsize 85644
+\i (00:00:06) trapsize 83267
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:06) Multithreaded DRC update (12 threads).
+\t (00:00:06) No DRC errors detected.
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 83267
+\i (00:00:07) trapsize 85644
+\i (00:00:07) trapsize 83267
+\i (00:00:07) trapsize 97365
+\i (00:00:07) trapsize 97365
+\i (00:00:07) trapsize 97365
+\t (00:00:07) Performing DRC...
+\t (00:00:07) Multithreaded DRC update (12 threads).
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Opening Design "TL4105AF160QG_EWI.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 83267
+\i (00:00:07) trapsize 85644
+\i (00:00:07) trapsize 83267
+\i (00:00:07) trapsize 97365
+\i (00:00:07) trapsize 97365
+\i (00:00:07) trapsize 97365
+\t (00:00:07) Performing DRC...
+\i (00:00:07) trapsize 93612
+\t (00:00:07) No DRC errors detected.
+\i (00:00:07) trapsize 23447
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 33.0)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2/tl4105af160qg_ewi.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\i (00:00:07) trapsize 1512
+\t (00:00:07) Opening existing design...
+\i (00:00:08) trapsize 1512
+\i (00:00:08) trapsize 1554
+\i (00:00:08) trapsize 1512
+\i (00:00:08) trapsize 1573
+\d (00:00:08) Design opened: C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2/TL4105AF160QG_EWI.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Mon Aug  7 19:31:44 2023

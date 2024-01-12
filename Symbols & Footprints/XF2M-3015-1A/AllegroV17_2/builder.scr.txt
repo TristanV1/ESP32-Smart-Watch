@@ -1,0 +1,4 @@
+skill load "C:/Users/12289/Desktop/XF2M-3015-1A/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/XF2M-3015-1A/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/XF2M-3015-1A/AllegroV17_2/CON30_1X30_DRB_XF2C_TYC.xml" 
+exit 

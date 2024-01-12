@@ -1,0 +1,166 @@
+(ExpressProject "Design3"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "23.1 S001 (4155653)  [11/15/2023]-[08/08/23]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "..\allegro layout")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\design3.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\design3.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Display_Online_DRC_Results "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\design3.brd")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\12289\DESKTOP\ESP32_SMART_WATCH_PROJECT\ORCAD SCHEMATIC\DESIGN3.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Part Reference}\t{Part Number}")
+    (BOM_Header "Item\tQuantity\tPart Reference\tPart Number\")
+    (BOM_Include_File
+       "C:\USERS\12289\DESKTOP\ESP32_SMART_WATCH_PROJECT\ORCAD SCHEMATIC\DESIGN3.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\design3.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\design3.brd")
+      (NetListPath "..\allegro layout")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File "..\allegro layout\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\allegro layout\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\allegro layout\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\design3.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File "..\allegro layout\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\12289\desktop\esp32_smart_watch_project\allegro layout\netlist.log"))
+    (File "..\allegro layout\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\12289\desktop\esp32_smart_watch_project\allegro layout\netrev.lst"))
+    (File "..\allegro layout\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\12289\desktop\esp32_smart_watch_project\allegro layout\eco.txt")))
+  (PartMRUSelector
+    (BAS16/SOT
+      (FullPartName "BAS16/SOT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Dbreak
+      (FullPartName "Dbreak.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (TL4105AF160QG
+      (FullPartName "TL4105AF160QG.Normal")
+      (LibraryName
+         "C:\USERS\12289\DESKTOP\ESP32_SMART_WATCH_PROJECT\SYMBOLS & FOOTPRINTS\TL4105AF160QG\ORCADCAPTUREXML\2023-08-07_23-28-56.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (DIPSOC-3x2
+      (FullPartName "DIPSOC-3x2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (SIPSOC-32
+      (FullPartName "SIPSOC-32.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (ZIFSOC-7x2
+      (FullPartName "ZIFSOC-7x2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (DIPSOC-7x2
+      (FullPartName "DIPSOC-7x2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CSLSOC-4
+      (FullPartName "CSLSOC-4.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (SIPSOC-3
+      (FullPartName "SIPSOC-3.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (ESP32-S3-WROOM-1-N8
+      (FullPartName "ESP32-S3-WROOM-1-N8.Normal")
+      (LibraryName
+         "C:\USERS\12289\DESKTOP\ESP32_SMART_WATCH_PROJECT\SYMBOLS & FOOTPRINTS\ESP32-S3-WROOM-1-N8\ORCADCAPTUREXML\2023-08-05_04-09-50.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\12289\Desktop\ESP32_Smart_Watch_Project\Symbols & Footprints\TL4105AF160QG\OrcadCaptureXML")
+  (MPSSessionName "12289")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 795"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 813")
+        (Scroll "-319 -7")
+        (Zoom "103")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\12289\DESKTOP\ESP32_SMART_WATCH_PROJECT\ORCAD SCHEMATIC\DESIGN3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

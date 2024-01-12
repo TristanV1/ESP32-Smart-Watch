@@ -1,0 +1,6 @@
+skill load "C:/Users/12289/Desktop/SPX1117M3-L-3-3-TR/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/SPX1117M3-L-3-3-TR/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/SPX1117M3-L-3-3-TR/AllegroV17_2/SOT223-3_MXL-L.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/SPX1117M3-L-3-3-TR/AllegroV17_2/SOT223-3_MXL-M.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/SPX1117M3-L-3-3-TR/AllegroV17_2/SOT223-3_MXL.xml" 
+exit 

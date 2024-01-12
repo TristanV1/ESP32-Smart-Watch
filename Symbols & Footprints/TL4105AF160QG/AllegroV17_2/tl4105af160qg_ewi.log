@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TL4105AF160QG_EWI.dra                         )
+(    Software Version : 17.4S037                                      )
+(    Date/Time        : Mon Aug  7 19:31:43 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2
+    Name      = tl4105af160qg_ewi.psm
+    User      = 12289
+    Machine   = DESKTOP-AQ1B764
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

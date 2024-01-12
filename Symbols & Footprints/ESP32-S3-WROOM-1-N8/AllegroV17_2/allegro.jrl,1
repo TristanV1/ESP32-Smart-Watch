@@ -1,0 +1,19 @@
+\t (00:00:03) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Aug  5 00:16:27 2023
+\t (00:00:03)         Host=DESKTOP-AQ1B764 User=12289 Pid=11552 CPUs=12
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 116667
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/Symbols /builder.ile" ' 
+   (00:00:04) *Error* load: can't access file - "C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/Symbols /builder.ile"
+   (00:00:04) ERROR
+\i (00:00:04) skill 'changeWorkingDir "C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/Symbols " ' 
+   (00:00:04) nil
+\i (00:00:04) skill 'LB_createFootprint "C:/Users/12289/Desktop/ESP32_Smart_Watch_Project/Symbols /ESP32-S3-WROOM-1-N8_EXP.xml" ' 
+   (00:00:04) *Error* eval: undefined function - LB_createFootprint
+   (00:00:04) ERROR
+\i (00:00:04) exit 
+\t (00:00:04)     Journal end - Sat Aug  5 00:16:28 2023

@@ -1,0 +1,4 @@
+skill load "C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/TL4105AF160QG/AllegroV17_2/TL4105AF160QG_EWI.xml" 
+exit 

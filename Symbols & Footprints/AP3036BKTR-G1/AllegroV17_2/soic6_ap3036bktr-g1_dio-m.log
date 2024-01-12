@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC6_AP3036BKTR-G1_DIO-M.dra                 )
+(    Software Version : 17.4S037                                      )
+(    Date/Time        : Mon Aug  7 14:26:24 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2
+    Name      = soic6_ap3036bktr-g1_dio-m.psm
+    User      = 12289
+    Machine   = DESKTOP-AQ1B764
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

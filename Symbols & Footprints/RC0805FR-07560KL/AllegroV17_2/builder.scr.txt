@@ -1,0 +1,6 @@
+skill load "C:/Users/12289/Desktop/RC0805FR-07560KL/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/RC0805FR-07560KL/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/RC0805FR-07560KL/AllegroV17_2/RC0805N_YAG-L.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/RC0805FR-07560KL/AllegroV17_2/RC0805N_YAG-M.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/RC0805FR-07560KL/AllegroV17_2/RC0805N_YAG.xml" 
+exit 

@@ -1,0 +1,6 @@
+skill load "C:/Users/12289/Desktop/MAX17048G-T10/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/MAX17048G-T10/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/MAX17048G-T10/AllegroV17_2/21-0168E_T822-3_MXM-L.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/MAX17048G-T10/AllegroV17_2/21-0168E_T822-3_MXM-M.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/MAX17048G-T10/AllegroV17_2/21-0168E_T822-3_MXM.xml" 
+exit 

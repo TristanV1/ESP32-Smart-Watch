@@ -1,0 +1,6 @@
+skill load "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2" 
+skill LB_createFootprint "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC-L.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC-M.xml" 
+skill LB_createFootprint "C:/Users/12289/Desktop/1N4148WX-TP/AllegroV17_2/CR_SOD323_MCC.xml" 
+exit 

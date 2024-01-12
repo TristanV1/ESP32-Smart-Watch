@@ -1,0 +1,58 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Tue Aug  8 14:51:10 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  BM_SCL       pins DELETED FROM this net (all pins deleted)
+                                 U1.29           413.419 232.283
+               pins MOVED FROM this net (to net name listed on right)
+                                 R8.2            418.750 230.853
+                                                                        I2C_SCL
+                                 U5.7            405.496 251.000
+                                                                        I2C_SCL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BM_SDA       pins DELETED FROM this net (all pins deleted)
+                                 U1.28           413.419 231.013
+               pins MOVED FROM this net (to net name listed on right)
+                                 R7.2            416.250 230.853
+                                                                        I2C_SDA
+                                 U5.8            405.496 251.500
+                                                                        I2C_SDA
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BP_SCL       pins MOVED FROM this net (to net name listed on right)
+                                 R5.2            419.103 245.000
+                                                                        I2C_SCL
+                                 U1.39           413.419 244.983
+                                                                        I2C_SCL
+                                 U3.2            427.600 225.693
+                                                                        I2C_SCL
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BP_SDA       pins MOVED FROM this net (to net name listed on right)
+                                 R6.2            419.103 242.500
+                                                                        I2C_SDA
+                                 U1.38           413.419 243.713
+                                                                        I2C_SDA
+                                 U3.3            426.800 225.693
+                                                                        I2C_SDA
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../ESP32_Smart_Watch_Project/OrCAD Schematic/allegro/design3.brd         |
+|                                                    Tue Aug  8 14:51:10 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      12                                        |
+|                                                                              |
+|   Total ECO changes reported:      12                                        |
+|------------------------------------------------------------------------------|

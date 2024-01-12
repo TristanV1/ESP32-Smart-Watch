@@ -1,0 +1,143 @@
+\t (00:00:02) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Aug  7 14:26:19 2023
+\t (00:00:02)         Host=DESKTOP-AQ1B764 User=12289 Pid=19136 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO-L.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 804
+\i (00:00:05) trapsize 826
+\i (00:00:05) trapsize 804
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 97365
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (12 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "SOIC6_AP3036BKTR-G1_DIO-L.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 80398
+\i (00:00:05) trapsize 82612
+\i (00:00:05) trapsize 80398
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:06) No DRC errors detected.
+\i (00:00:06) trapsize 24341
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Attaching Step
+\t (00:00:06) Creating package symbol 'C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/soic6_ap3036bktr-g1_dio-l.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:06) Symbol Created
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\i (00:00:06) trapsize 1474
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 1474
+\i (00:00:06) trapsize 1515
+\i (00:00:06) trapsize 1474
+\i (00:00:06) trapsize 1474
+\d (00:00:06) Design opened: C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) skill 'LB_createFootprint "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO-M.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 15497
+\i (00:00:06) trapsize 15924
+\i (00:00:06) trapsize 15497
+\i (00:00:06) trapsize 24341
+\i (00:00:06) trapsize 24341
+\i (00:00:06) trapsize 24341
+\t (00:00:06) Performing DRC...
+\i (00:00:06) trapsize 23403
+\t (00:00:07) No DRC errors detected.
+\t (00:00:07) Opening Design "SOIC6_AP3036BKTR-G1_DIO-M.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 15497
+\i (00:00:07) trapsize 15924
+\i (00:00:07) trapsize 15497
+\i (00:00:07) trapsize 24341
+\i (00:00:07) trapsize 24341
+\i (00:00:07) trapsize 24341
+\t (00:00:07) Performing DRC...
+\i (00:00:07) trapsize 23403
+\t (00:00:07) No DRC errors detected.
+\i (00:00:07) trapsize 23403
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+   (00:00:07) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Attaching Step
+\t (00:00:07) Creating package symbol 'C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/soic6_ap3036bktr-g1_dio-m.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 1517
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 1517
+\i (00:00:07) trapsize 1558
+\i (00:00:07) trapsize 1517
+\i (00:00:07) trapsize 1577
+\d (00:00:07) Design opened: C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO-M.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) skill 'LB_createFootprint "C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15619
+\i (00:00:08) trapsize 16049
+\i (00:00:08) trapsize 15619
+\i (00:00:08) trapsize 24341
+\i (00:00:08) trapsize 24341
+\i (00:00:08) trapsize 24341
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\t (00:00:08) Opening Design "SOIC6_AP3036BKTR-G1_DIO.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 15619
+\i (00:00:08) trapsize 16049
+\i (00:00:08) trapsize 15619
+\i (00:00:08) trapsize 24341
+\i (00:00:08) trapsize 24341
+\i (00:00:08) trapsize 24341
+\t (00:00:08) Performing DRC...
+\t (00:00:08) No DRC errors detected.
+\i (00:00:08) trapsize 24341
+\t (00:00:08) Creating TextBlocks
+\t (00:00:08) Creating Shapes on Package layers
+   (00:00:08) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 57.0)
+\t (00:00:08) Creating Pins
+\t (00:00:08) Creating Vias
+\t (00:00:08) Attaching Step
+\t (00:00:08) Creating package symbol 'C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/soic6_ap3036bktr-g1_dio.psm'.
+\t (00:00:08) Starting Create symbol...
+\t (00:00:08) Symbol Created
+\i (00:00:08) trapsize 1520
+\t (00:00:08) Opening existing design...
+\i (00:00:09) trapsize 1520
+\i (00:00:09) trapsize 1562
+\i (00:00:09) trapsize 1520
+\i (00:00:09) trapsize 1581
+\d (00:00:09) Design opened: C:/Users/12289/Desktop/AP3036BKTR-G1/AllegroV17_2/SOIC6_AP3036BKTR-G1_DIO.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Mon Aug  7 14:26:26 2023

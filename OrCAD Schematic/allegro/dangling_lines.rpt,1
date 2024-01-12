@@ -1,0 +1,87 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : design3.brd                                   )
+(    Software Version : 17.4S037                                      )
+(    Date/Time        : Tue Aug  8 18:23:11 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  RX                   INTERFACE-PADS_DBFIX1 (416.2500 241.5000) TOP/BOTTOM 
+  TX                   INTERFACE-PADS_DBFIX1 (418.7500 241.5000) TOP/BOTTOM 
+  TCK                  INTERFACE-PADS_DBFIX1 (419.5000 233.7500) TOP/BOTTOM 
+  TDO                  INTERFACE-PADS_DBFIX1 (417.5000 235.5000) TOP/BOTTOM 
+  TDI                  INTERFACE-PADS_DBFIX1 (419.7500 237.2500) TOP/BOTTOM 
+  TMS                  INTERFACE-PADS_DBFIX1 (417.5000 239.0000) TOP/BOTTOM 
+  USB D+               INTERFACE-PADS       (436.0000 249.5000) TOP/BOTTOM 
+  USB D-               INTERFACE-PADS       (436.0000 252.0000) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  I2C_SDA              VIA                  (427.0000 227.2500) TOP/BOTTOM 
+  I2C_SCL              VIA                  (428.2500 227.2500) TOP/BOTTOM 
+  RX                   INTERFACE-PADS_DBFIX1 (416.2500 241.5000) TOP/BOTTOM 
+  TX                   INTERFACE-PADS_DBFIX1 (418.7500 241.5000) TOP/BOTTOM 
+  DISP_SCK             VIA                  (422.0423 216.0422) TOP/BOTTOM 
+  DISP_SCK             VIA                  (420.5000 227.0000) TOP/BOTTOM 
+  DISP_MOSI            VIA                  (423.5000 216.2500) TOP/BOTTOM 
+  DISP_MOSI            VIA                  (422.0000 227.0000) TOP/BOTTOM 
+  N27245               VIA                  (418.2500 213.2500) TOP/BOTTOM 
+  N27245               VIA                  (410.8509 212.7500) TOP/BOTTOM 
+  GND                  VIA                  (433.0000 226.2778) TOP/BOTTOM 
+  GND                  VIA                  (418.3970 230.7500) TOP/BOTTOM 
+  GND                  VIA                  (425.7500 227.2500) TOP/BOTTOM 
+  GND                  VIA                  (425.0722 219.0000) TOP/BOTTOM 
+  GND                  VIA                  (409.1491 212.7500) TOP/BOTTOM 
+  GND                  VIA                  (413.9722 211.7500) TOP/BOTTOM 
+  GND                  VIA                  (418.5000 211.2500) TOP/BOTTOM 
+  GND                  VIA                  (434.0000 227.2500) TOP/BOTTOM 
+  GND                  VIA                  (429.0000 232.8970) TOP/BOTTOM 
+  GND                  VIA                  (433.0000 221.4722) TOP/BOTTOM 
+  GND                  VIA                  (429.2222 219.5278) TOP/BOTTOM 
+  3.3V                 VIA                  (411.0000 211.2500) TOP/BOTTOM 
+  3.3V                 VIA                  (425.0000 216.0000) TOP/BOTTOM 
+  3.3V                 VIA                  (416.5000 215.7500) TOP/BOTTOM 
+  3.3V                 VIA                  (423.9722 221.2500) TOP/BOTTOM 
+  3.7V LI-PO           VIA                  (403.3530 230.7500) TOP/BOTTOM 
+  3.7V LI-PO           VIA                  (411.7500 231.7500) TOP/BOTTOM 
+  3.7V LI-PO           VIA                  (411.0000 239.7500) TOP/BOTTOM 
+  N15734               VIA                  (421.2500 213.0022) TOP/BOTTOM 
+  N15734               VIA                  (432.8530 216.2500) TOP/BOTTOM 
+  N15026               VIA                  (419.5000 213.2500) TOP/BOTTOM 
+  N15026               VIA                  (433.5000 211.6030) TOP/BOTTOM 
+  TCK                  INTERFACE-PADS_DBFIX1 (419.5000 233.7500) TOP/BOTTOM 
+  TDO                  INTERFACE-PADS_DBFIX1 (417.5000 235.5000) TOP/BOTTOM 
+  TDI                  INTERFACE-PADS_DBFIX1 (419.7500 237.2500) TOP/BOTTOM 
+  TMS                  INTERFACE-PADS_DBFIX1 (417.5000 239.0000) TOP/BOTTOM 
+  USB D+               INTERFACE-PADS       (436.0000 249.5000) TOP/BOTTOM 
+  USB D+               VIA                  (430.5809 227.3309) TOP/BOTTOM 
+  USB D-               INTERFACE-PADS       (436.0000 252.0000) TOP/BOTTOM 
+  USB D-               VIA                  (429.2500 237.2500) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       0
+  Total dangling vias:        8
+  Total antenna vias:        40

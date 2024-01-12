@@ -1,0 +1,61 @@
+\t (00:00:02) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Aug  7 15:24:07 2023
+\t (00:00:02)         Host=DESKTOP-AQ1B764 User=12289 Pid=19500 CPUs=12
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "C:/Users/12289/Desktop/744025220/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Users/12289/Desktop/744025220/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Users/12289/Desktop/744025220/AllegroV17_2/IND_WE-TPC_SMT_2828_WRE.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 833
+\i (00:00:05) trapsize 856
+\i (00:00:05) trapsize 833
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 974
+\i (00:00:05) trapsize 97365
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (12 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Opening Design "IND_WE-TPC_SMT_2828_WRE.dra"
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 83267
+\i (00:00:05) trapsize 85644
+\i (00:00:05) trapsize 83267
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\i (00:00:06) trapsize 97365
+\t (00:00:06) Performing DRC...
+\t (00:00:06) No DRC errors detected.
+\i (00:00:06) trapsize 21375
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+   (00:00:06) *WARNING* (axlLayerCreateNonConductor): No match for class name - ("ROUTEKEEPOUT/TOP")
+   (00:00:06) *WARNING* (axlDBCreateOpenShape): No match for class name - "ROUTEKEEPOUT/TOP"
+   (00:00:06) *WARNING* (axlDBAddProp): ERROR(SPMHDB-272): Property is only allowed on PACKAGE KEEPOUT or PLACE BOUND. ("PACKAGE_HEIGHT_MAX" 118.0)
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Attaching Step
+\t (00:00:06) Creating package symbol 'C:/Users/12289/Desktop/744025220/AllegroV17_2/ind_we-tpc_smt_2828_wre.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:06) Symbol Created
+   (00:00:06) Loading cmds.cxt 
+   (00:00:06) Loading skillExt.cxt 
+\i (00:00:06) trapsize 1566
+\t (00:00:06) Opening existing design...
+\i (00:00:06) trapsize 1512
+\i (00:00:06) trapsize 1554
+\i (00:00:06) trapsize 1512
+\i (00:00:06) trapsize 1566
+\d (00:00:06) Design opened: C:/Users/12289/Desktop/744025220/AllegroV17_2/IND_WE-TPC_SMT_2828_WRE.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) exit 
+\t (00:00:06)     Journal end - Mon Aug  7 15:24:11 2023
